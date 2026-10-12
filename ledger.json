@@ -239,8 +239,8 @@
    "topic": "make a photo -> take a photo",
    "image": "images/2026-10-13/1200_mistake_take_photo.png",
    "text": "❌✅ Common Mistake\n\n❌ I made a photo of the sunset.\n✅ I took a photo of the sunset.\n\nIn English we TAKE a photo. \"Make\" suggests creating something, but a photo just captures what is already there.\n\n🗣️ Tag a friend who needs to see this!\n\n#Speaklo #LearnEnglish #CommonMistakes #EnglishTips",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6acd1262e0a62e05555e6744",
+   "status": "scheduled",
    "source": "jakubmarian.com make-a-photo-vs-take-a-photo: 'took a photo' correct, 'made a photo' unnatural",
    "dueAtUtc": "2026-10-13T12:00:00Z"
   },
@@ -250,8 +250,8 @@
    "topic": "Look up",
    "image": "images/2026-10-13/1500_phrasal_look_up.png",
    "text": "💡 Phrasal Verb of the Day: LOOK UP\n\n📖 Meaning: to search for information (in a dictionary or online).\n💬 Example: I looked it up in the dictionary.\n\n✍️ What did you look up today? Tell us below 👇\n\n#Speaklo #LearnEnglish #PhrasalVerbs #LookUp",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6acd1264e0a62e05555e6808",
+   "status": "scheduled",
    "source": "Oxford Learner's Dictionaries 'look up': look something up = find information in a dictionary/online; 'I looked it up in the dictionary.'",
    "dueAtUtc": "2026-10-13T15:00:00Z"
   },
@@ -261,8 +261,8 @@
    "topic": "much or many (answer A: much)",
    "image": "images/2026-10-13/1800_quiz_much_many.png",
    "text": "🧠 Quiz Time!\n\nI don't have ___ time.\nA) much\nB) many\n\n✅ Yesterday's answer: B) on → \"The meeting is on Monday.\"\n\n💬 Comment your answer below 👇 We'll reveal the correct answer tomorrow!\n\n#Speaklo #LearnEnglish #EnglishQuiz #EnglishGrammar",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6acd1266acb90f71c6d2a1d7",
+   "status": "scheduled",
    "source": "Cambridge Grammar: much + uncountable (time), mostly in negatives/questions",
    "dueAtUtc": "2026-10-13T18:00:00Z"
   },
@@ -272,8 +272,8 @@
    "topic": "Favorite food",
    "image": "images/2026-10-13/2300_speak_food.png",
    "text": "🎤 Speak Challenge!\n\nTalk about your favorite food out loud:\n\"My favorite food is ___. I love it because ___.\"\n\n🔊 Record yourself and listen back!\n\n💬 Write your sentences in the comments 👇\n\n#Speaklo #LearnEnglish #SpeakEnglish #EnglishSpeaking",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6acd12697eb16fd28e9425ac",
+   "status": "scheduled",
    "source": "Own prompt, simple sentence frame (no dictionary facts)",
    "dueAtUtc": "2026-10-13T23:00:00Z"
   },
@@ -283,8 +283,8 @@
    "topic": "ambitious",
    "image": "images/2026-10-14/0500_word_ambitious.png",
    "text": "🌟 Word of the Day: AMBITIOUS\n\n📖 Meaning: eager to achieve success.\n💬 Example: She is very ambitious and wants to be a doctor.\n\n✍️ Your turn! Write your own sentence with \"ambitious\" in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishVocabulary #WordOfTheDay",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6acd126afd425063ef4a13f3",
+   "status": "scheduled",
    "source": "dictionary.com/browse/ambitious: US /æmˈbɪʃəs/, having ambition; eagerly desirous of achieving success",
    "dueAtUtc": "2026-10-14T05:00:00Z"
   },
@@ -294,8 +294,8 @@
    "topic": "past simple vs present perfect",
    "image": "images/2026-10-14/0800_grammar_past_perfect.png",
    "text": "📘 Grammar Tip: PAST SIMPLE vs PRESENT PERFECT\n\n✅ Past simple = a finished time: I went to Rome in 2019.\n✅ Present perfect = connected to now: I have lived here since 2021.\n\n💡 With yesterday, ago or in 2019, use the past simple.\n\n✍️ Write one sentence for each in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishGrammar #PresentPerfect",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6acd126dacb90f71c6d2a587",
+   "status": "scheduled",
    "source": "Cambridge Dictionary blog 'Present perfect or past simple?' (finished time -> past simple; link to present -> present perfect)",
    "dueAtUtc": "2026-10-14T08:00:00Z"
   }
