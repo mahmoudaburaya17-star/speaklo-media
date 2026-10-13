@@ -196,7 +196,7 @@
    "image": "images/2026-10-12/1800_quiz_prepositions_time.png",
    "text": "🧠 Quiz Time!\n\nThe meeting is ___ Monday.\nA) in\nB) on\nC) at\n\n💬 Comment your answer below 👇 We'll reveal the correct answer tomorrow!\n\n#Speaklo #LearnEnglish #EnglishQuiz #EnglishGrammar",
    "bufferId": "6acba60abba9419ccb3d2188",
-   "status": "scheduled",
+   "status": "sent",
    "source": "",
    "dueAtUtc": "2026-10-12T18:00:00Z"
   },
@@ -207,7 +207,7 @@
    "image": "images/2026-10-12/2300_speak_introduce.png",
    "text": "🎤 Speak Challenge!\n\nIntroduce yourself in 20 seconds:\n\"Hi, my name is ___. I'm from ___. I like ___.\"\n\n🔊 Say it out loud, then record yourself!\n\n💬 Write your introduction in the comments 👇\n\n#Speaklo #LearnEnglish #SpeakEnglish #EnglishSpeaking",
    "bufferId": "6acba60cb07d37ac97ae248a",
-   "status": "scheduled",
+   "status": "sent",
    "source": "",
    "dueAtUtc": "2026-10-12T23:00:00Z"
   },
@@ -218,7 +218,7 @@
    "image": "images/2026-10-13/0500_word_reluctant.png",
    "text": "🌟 Word of the Day: RELUCTANT\n\n📖 Meaning: unwilling; not eager to do something.\n💬 Example: He was reluctant to speak in public.\n\n✍️ Your turn! Write your own sentence with \"reluctant\" in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishVocabulary #WordOfTheDay",
    "bufferId": "6acba965bba9419ccb3df375",
-   "status": "scheduled",
+   "status": "sent",
    "source": "dictionary.com/browse/reluctant: US /rɪˈlʌktənt/, unwilling or disinclined",
    "dueAtUtc": "2026-10-13T05:00:00Z"
   },
@@ -229,7 +229,7 @@
    "image": "images/2026-10-13/0800_grammar_much_many.png",
    "text": "📘 Grammar Tip: MUCH vs MANY\n\n✅ MANY goes with countable nouns: many books, many friends.\n✅ MUCH goes with uncountable nouns: much water, much time.\n\n💡 We use them mostly in questions and negatives:\n\"How many books do you have?\" / \"I don't have much time.\"\n\n✍️ Write your own sentence with \"much\" or \"many\" in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishGrammar #MuchVsMany",
    "bufferId": "6acba967ed92ed8fa5090e58",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Cambridge Grammar: much + uncountable, many + plural countable; mostly questions/negatives",
    "dueAtUtc": "2026-10-13T08:00:00Z"
   },
@@ -240,7 +240,7 @@
    "image": "images/2026-10-13/1200_mistake_take_photo.png",
    "text": "❌✅ Common Mistake\n\n❌ I made a photo of the sunset.\n✅ I took a photo of the sunset.\n\nIn English we TAKE a photo. \"Make\" suggests creating something, but a photo just captures what is already there.\n\n🗣️ Tag a friend who needs to see this!\n\n#Speaklo #LearnEnglish #CommonMistakes #EnglishTips",
    "bufferId": "6acd1262e0a62e05555e6744",
-   "status": "scheduled",
+   "status": "sent",
    "source": "jakubmarian.com make-a-photo-vs-take-a-photo: 'took a photo' correct, 'made a photo' unnatural",
    "dueAtUtc": "2026-10-13T12:00:00Z"
   },
@@ -298,6 +298,61 @@
    "status": "scheduled",
    "source": "Cambridge Dictionary blog 'Present perfect or past simple?' (finished time -> past simple; link to present -> present perfect)",
    "dueAtUtc": "2026-10-14T08:00:00Z"
+  },
+  {
+   "key": "2026-10-14T12:00Z#mistake",
+   "slot": "Common Mistake",
+   "topic": "informations -> information",
+   "image": "images/2026-10-14/1200_mistake_information.png",
+   "text": "❌✅ Common Mistake\n\n❌ I need some informations.\n✅ I need some information.\n\n\"Information\" is uncountable, so it has no plural -s. To count it, say \"a piece of information\".\n\n🗣️ Tag a friend who needs to see this!\n\n#Speaklo #LearnEnglish #CommonMistakes #EnglishTips",
+   "bufferId": null,
+   "status": "pending",
+   "source": "Cambridge Dictionary 'information' [U] uncountable; 'a piece/bit of information'",
+   "dueAtUtc": "2026-10-14T12:00:00Z"
+  },
+  {
+   "key": "2026-10-14T15:00Z#idiom",
+   "slot": "Idiom",
+   "topic": "Hit the books",
+   "image": "images/2026-10-14/1500_idiom_hit_the_books.png",
+   "text": "💡 Idiom of the Day: HIT THE BOOKS\n\n📖 Meaning: to study hard.\n💬 Example: I need to hit the books tonight.\n\n✍️ When do you hit the books? Tell us below 👇\n\n#Speaklo #LearnEnglish #EnglishIdioms #HitTheBooks",
+   "bufferId": null,
+   "status": "pending",
+   "source": "Merriam-Webster 'hit the books': to study especially with intensity",
+   "dueAtUtc": "2026-10-14T15:00:00Z"
+  },
+  {
+   "key": "2026-10-14T18:00Z#quiz",
+   "slot": "Quiz",
+   "topic": "past simple vs present perfect (answer A: went)",
+   "image": "images/2026-10-14/1800_quiz_past_simple.png",
+   "text": "🧠 Quiz Time!\n\nI ___ to Paris in 2019.\nA) went\nB) have been\n\n✅ Yesterday's answer: A) much → \"I don't have much time.\"\n\n💬 Comment your answer below 👇 We'll reveal the correct answer tomorrow!\n\n#Speaklo #LearnEnglish #EnglishQuiz #EnglishGrammar",
+   "bufferId": null,
+   "status": "pending",
+   "source": "Cambridge Dictionary blog: 'I went to the USA in 2008' correct, 'I've been to the USA in 2008' not (finished time -> past simple)",
+   "dueAtUtc": "2026-10-14T18:00:00Z"
+  },
+  {
+   "key": "2026-10-14T23:00Z#speak",
+   "slot": "Speak Challenge",
+   "topic": "Order a coffee",
+   "image": "images/2026-10-14/2300_speak_coffee.png",
+   "text": "🎤 Speak Challenge!\n\nOrder a coffee out loud:\n\"Hi, can I have a coffee, please?\"\n\n🔊 Say it 3 times, then record yourself!\n\n💬 How would you order your favorite drink? Write it below 👇\n\n#Speaklo #LearnEnglish #SpeakEnglish #EnglishSpeaking",
+   "bufferId": null,
+   "status": "pending",
+   "source": "Own prompt, common polite request",
+   "dueAtUtc": "2026-10-14T23:00:00Z"
+  },
+  {
+   "key": "2026-10-15T05:00Z#word",
+   "slot": "Word of the Day",
+   "topic": "curious",
+   "image": "images/2026-10-15/0500_word_curious.png",
+   "text": "🌟 Word of the Day: CURIOUS\n\n📖 Meaning: eager to learn or know.\n💬 Example: He is curious about how things work.\n\n✍️ Your turn! Write your own sentence with \"curious\" in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishVocabulary #WordOfTheDay",
+   "bufferId": null,
+   "status": "pending",
+   "source": "dictionary.com/browse/curious: US /ˈkjʊəriəs/, eager to learn or know; inquisitive",
+   "dueAtUtc": "2026-10-15T05:00:00Z"
   }
  ]
 }
