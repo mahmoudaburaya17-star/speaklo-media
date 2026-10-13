@@ -305,8 +305,8 @@
    "topic": "informations -> information",
    "image": "images/2026-10-14/1200_mistake_information.png",
    "text": "❌✅ Common Mistake\n\n❌ I need some informations.\n✅ I need some information.\n\n\"Information\" is uncountable, so it has no plural -s. To count it, say \"a piece of information\".\n\n🗣️ Tag a friend who needs to see this!\n\n#Speaklo #LearnEnglish #CommonMistakes #EnglishTips",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6ace43012f0712f590119d0a",
+   "status": "scheduled",
    "source": "Cambridge Dictionary 'information' [U] uncountable; 'a piece/bit of information'",
    "dueAtUtc": "2026-10-14T12:00:00Z"
   },
@@ -316,8 +316,8 @@
    "topic": "Hit the books",
    "image": "images/2026-10-14/1500_idiom_hit_the_books.png",
    "text": "💡 Idiom of the Day: HIT THE BOOKS\n\n📖 Meaning: to study hard.\n💬 Example: I need to hit the books tonight.\n\n✍️ When do you hit the books? Tell us below 👇\n\n#Speaklo #LearnEnglish #EnglishIdioms #HitTheBooks",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6ace4303844852c82c7a348f",
+   "status": "scheduled",
    "source": "Merriam-Webster 'hit the books': to study especially with intensity",
    "dueAtUtc": "2026-10-14T15:00:00Z"
   },
@@ -327,8 +327,8 @@
    "topic": "past simple vs present perfect (answer A: went)",
    "image": "images/2026-10-14/1800_quiz_past_simple.png",
    "text": "🧠 Quiz Time!\n\nI ___ to Paris in 2019.\nA) went\nB) have been\n\n✅ Yesterday's answer: A) much → \"I don't have much time.\"\n\n💬 Comment your answer below 👇 We'll reveal the correct answer tomorrow!\n\n#Speaklo #LearnEnglish #EnglishQuiz #EnglishGrammar",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6ace4305749a21058540d580",
+   "status": "scheduled",
    "source": "Cambridge Dictionary blog: 'I went to the USA in 2008' correct, 'I've been to the USA in 2008' not (finished time -> past simple)",
    "dueAtUtc": "2026-10-14T18:00:00Z"
   },
@@ -338,8 +338,8 @@
    "topic": "Order a coffee",
    "image": "images/2026-10-14/2300_speak_coffee.png",
    "text": "🎤 Speak Challenge!\n\nOrder a coffee out loud:\n\"Hi, can I have a coffee, please?\"\n\n🔊 Say it 3 times, then record yourself!\n\n💬 How would you order your favorite drink? Write it below 👇\n\n#Speaklo #LearnEnglish #SpeakEnglish #EnglishSpeaking",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6ace4307a40029d94c4ec64b",
+   "status": "scheduled",
    "source": "Own prompt, common polite request",
    "dueAtUtc": "2026-10-14T23:00:00Z"
   },
@@ -349,8 +349,8 @@
    "topic": "curious",
    "image": "images/2026-10-15/0500_word_curious.png",
    "text": "🌟 Word of the Day: CURIOUS\n\n📖 Meaning: eager to learn or know.\n💬 Example: He is curious about how things work.\n\n✍️ Your turn! Write your own sentence with \"curious\" in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishVocabulary #WordOfTheDay",
-   "bufferId": null,
-   "status": "pending",
+   "bufferId": "6ace430aa40029d94c4ec67b",
+   "status": "scheduled",
    "source": "dictionary.com/browse/curious: US /ˈkjʊəriəs/, eager to learn or know; inquisitive",
    "dueAtUtc": "2026-10-15T05:00:00Z"
   }
