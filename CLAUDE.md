@@ -1,8 +1,8 @@
 # Speaklo page: how to run it (read before touching Buffer)
 
-Page: Facebook "Speaklo" (Buffer channel 6ac94a6a6a5c39ccb666bab4), English learning for foreign audiences.
+Page: Facebook "Speaklo" (Buffer channel 6ac94a6a6a5c39ccb666bab4), English learning. STRATEGY (from 2026-10-14): ARABIC-FIRST for Arab learners (Egyptian dialect, simple), English examples inside; English-only foreign content paused until engagement grows. Reason: English-only posts reached 1-3 impressions each, 0 reactions.
 Brand: navy #1B2A4E, yellow #FFC93C, coral #FF6B4A, mint #2EC4B6, cream #FFF8EE. Fonts Poppins/Nunito. Tagline "Speak it. Own it."
-Daily slots (UTC): 05:00 Word of the Day, 08:00 Grammar Tip, 12:00 Common Mistake, 15:00 Idiom / Phrasal Verb (alternate days), 18:00 Quiz, 23:00 Speak Challenge. Friday 23:00 = Weekly Recap.
+Daily slots (Cairo time, +03:00 until Egypt DST ends 2026-10-29, then +02:00): 09:00 Word of the Day (كلمة اليوم), 15:00 Common Mistake (غلطة شائعة), 21:00 Quiz (كويز). 3 posts/day only (6/day with no audience hurt reach). Ledger key = UTC time + slot + #ar. Quiz answer is revealed in the NEXT day's quiz caption. Arabic cards: /home/claude/gen/speaklo_ar.py (DejaVu Sans Bold for Arabic; Tajawal/Cairo not downloadable here).
 `ledger.json` is the source of truth for every post (key = UTC time + slot). Images are served from raw.githubusercontent.com/mahmoudaburaya17-star/speaklo-media/main/<image>.
 
 ## Never post twice (do ALL checks, in order)
