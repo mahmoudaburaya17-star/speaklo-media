@@ -262,9 +262,10 @@
    "image": "images/2026-10-13/1800_quiz_much_many.png",
    "text": "🧠 Quiz Time!\n\nI don't have ___ time.\nA) much\nB) many\n\n✅ Yesterday's answer: B) on → \"The meeting is on Monday.\"\n\n💬 Comment your answer below 👇 We'll reveal the correct answer tomorrow!\n\n#Speaklo #LearnEnglish #EnglishQuiz #EnglishGrammar",
    "bufferId": "6acd1266acb90f71c6d2a1d7",
-   "status": "scheduled",
+   "status": "error",
    "source": "Cambridge Grammar: much + uncountable (time), mostly in negatives/questions",
-   "dueAtUtc": "2026-10-13T18:00:00Z"
+   "dueAtUtc": "2026-10-13T18:00:00Z",
+   "error": "Never sent: Facebook channel was disconnected at send time. Not rescheduled (quiz answer already moved on)."
   },
   {
    "key": "2026-10-13T23:00Z#speak",
@@ -321,7 +322,7 @@
    "image": "images/2026-10-14/1500_idiom_hit_the_books.png",
    "text": "💡 Idiom of the Day: HIT THE BOOKS\n\n📖 Meaning: to study hard.\n💬 Example: I need to hit the books tonight.\n\n✍️ When do you hit the books? Tell us below 👇\n\n#Speaklo #LearnEnglish #EnglishIdioms #HitTheBooks",
    "bufferId": "6ace4303844852c82c7a348f",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Merriam-Webster 'hit the books': to study especially with intensity",
    "dueAtUtc": "2026-10-14T15:00:00Z"
   },
@@ -332,7 +333,7 @@
    "image": "images/2026-10-14/1800_quiz_past_simple.png",
    "text": "🧠 Quiz Time!\n\nI ___ to Paris in 2019.\nA) went\nB) have been\n\n✅ Yesterday's answer: A) much → \"I don't have much time.\"\n\n💬 Comment your answer below 👇 We'll reveal the correct answer tomorrow!\n\n#Speaklo #LearnEnglish #EnglishQuiz #EnglishGrammar",
    "bufferId": "6ace4305749a21058540d580",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Cambridge Dictionary blog: 'I went to the USA in 2008' correct, 'I've been to the USA in 2008' not (finished time -> past simple)",
    "dueAtUtc": "2026-10-14T18:00:00Z"
   },
