@@ -274,10 +274,10 @@
    "image": "images/2026-10-13/2300_speak_food.png",
    "text": "🎤 Speak Challenge!\n\nTalk about your favorite food out loud:\n\"My favorite food is ___. I love it because ___.\"\n\n🔊 Record yourself and listen back!\n\n💬 Write your sentences in the comments 👇\n\n#Speaklo #LearnEnglish #SpeakEnglish #EnglishSpeaking",
    "bufferId": "6acd12697eb16fd28e9425ac",
-   "status": "scheduled",
+   "status": "deleted",
    "source": "Own prompt, simple sentence frame (no dictionary facts)",
    "dueAtUtc": "2026-10-15T23:00:00Z",
-   "error": "Rescheduled via edit_post after channel reconnect; Buffer still shows a stale error message on the post. VERIFY it was sent after its dueAtUtc."
+   "error": "Deleted from Buffer (strategy change to Arabic-first); never sent"
   },
   {
    "key": "2026-10-14T05:00Z#word",
@@ -286,10 +286,10 @@
    "image": "images/2026-10-14/0500_word_ambitious.png",
    "text": "🌟 Word of the Day: AMBITIOUS\n\n📖 Meaning: eager to achieve success.\n💬 Example: She is very ambitious and wants to be a doctor.\n\n✍️ Your turn! Write your own sentence with \"ambitious\" in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishVocabulary #WordOfTheDay",
    "bufferId": "6acd126afd425063ef4a13f3",
-   "status": "scheduled",
+   "status": "deleted",
    "source": "dictionary.com/browse/ambitious: US /æmˈbɪʃəs/, having ambition; eagerly desirous of achieving success",
    "dueAtUtc": "2026-10-16T05:00:00Z",
-   "error": "Rescheduled via edit_post after channel reconnect; Buffer still shows a stale error message on the post. VERIFY it was sent after its dueAtUtc."
+   "error": "Deleted from Buffer (strategy change to Arabic-first); never sent"
   },
   {
    "key": "2026-10-14T08:00Z#grammar",
@@ -298,10 +298,10 @@
    "image": "images/2026-10-14/0800_grammar_past_perfect.png",
    "text": "📘 Grammar Tip: PAST SIMPLE vs PRESENT PERFECT\n\n✅ Past simple = a finished time: I went to Rome in 2019.\n✅ Present perfect = connected to now: I have lived here since 2021.\n\n💡 With yesterday, ago or in 2019, use the past simple.\n\n✍️ Write one sentence for each in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishGrammar #PresentPerfect",
    "bufferId": "6acd126dacb90f71c6d2a587",
-   "status": "scheduled",
+   "status": "deleted",
    "source": "Cambridge Dictionary blog 'Present perfect or past simple?' (finished time -> past simple; link to present -> present perfect)",
    "dueAtUtc": "2026-10-15T08:00:00Z",
-   "error": "Rescheduled via edit_post after channel reconnect; Buffer still shows a stale error message on the post. VERIFY it was sent after its dueAtUtc."
+   "error": "Deleted from Buffer (strategy change to Arabic-first); never sent"
   },
   {
    "key": "2026-10-14T12:00Z#mistake",
@@ -310,10 +310,10 @@
    "image": "images/2026-10-14/1200_mistake_information.png",
    "text": "❌✅ Common Mistake\n\n❌ I need some informations.\n✅ I need some information.\n\n\"Information\" is uncountable, so it has no plural -s. To count it, say \"a piece of information\".\n\n🗣️ Tag a friend who needs to see this!\n\n#Speaklo #LearnEnglish #CommonMistakes #EnglishTips",
    "bufferId": "6ace43012f0712f590119d0a",
-   "status": "scheduled",
+   "status": "deleted",
    "source": "Cambridge Dictionary 'information' [U] uncountable; 'a piece/bit of information'",
    "dueAtUtc": "2026-10-15T12:00:00Z",
-   "error": "Rescheduled via edit_post after channel reconnect; Buffer still shows a stale error message on the post. VERIFY it was sent after its dueAtUtc."
+   "error": "Deleted from Buffer (strategy change to Arabic-first); never sent"
   },
   {
    "key": "2026-10-14T15:00Z#idiom",
@@ -344,9 +344,10 @@
    "image": "images/2026-10-14/2300_speak_coffee.png",
    "text": "🎤 Speak Challenge!\n\nOrder a coffee out loud:\n\"Hi, can I have a coffee, please?\"\n\n🔊 Say it 3 times, then record yourself!\n\n💬 How would you order your favorite drink? Write it below 👇\n\n#Speaklo #LearnEnglish #SpeakEnglish #EnglishSpeaking",
    "bufferId": "6ace4307a40029d94c4ec64b",
-   "status": "scheduled",
+   "status": "deleted",
    "source": "Own prompt, common polite request",
-   "dueAtUtc": "2026-10-14T23:00:00Z"
+   "dueAtUtc": "2026-10-14T23:00:00Z",
+   "error": "Deleted from Buffer (strategy change to Arabic-first); never sent"
   },
   {
    "key": "2026-10-15T05:00Z#word",
@@ -355,9 +356,10 @@
    "image": "images/2026-10-15/0500_word_curious.png",
    "text": "🌟 Word of the Day: CURIOUS\n\n📖 Meaning: eager to learn or know.\n💬 Example: He is curious about how things work.\n\n✍️ Your turn! Write your own sentence with \"curious\" in the comments 👇\n\n#Speaklo #LearnEnglish #EnglishVocabulary #WordOfTheDay",
    "bufferId": "6ace430aa40029d94c4ec67b",
-   "status": "scheduled",
+   "status": "deleted",
    "source": "dictionary.com/browse/curious: US /ˈkjʊəriəs/, eager to learn or know; inquisitive",
-   "dueAtUtc": "2026-10-15T05:00:00Z"
+   "dueAtUtc": "2026-10-15T05:00:00Z",
+   "error": "Deleted from Buffer (strategy change to Arabic-first); never sent"
   }
  ]
 }
