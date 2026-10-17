@@ -382,7 +382,7 @@
    "text": "❌✅ غلطة شائعة\n\n❌ I am agree with you\n✅ I agree with you\n\nكلمة agree فعل بالفعل، فنقول I agree من غير am. (مش بنقول I am agree)\n\n🗣️ ابعت البوست لصاحبك اللي لسه بيغلط فيها!\n\n#Speaklo #تعلم_الانجليزية #انجليزي #غلطة_شائعة",
    "bufferId": "6acfe3b5f69efaca8e69cf15",
    "status": "sent",
-   "source": "Cambridge/Oxford: 'agree' is a verb, no 'be' before it (Arabic gloss: standard translation)",
+   "source": "Oxford Learner's Dictionaries 'agree': conjugated 'I/you/we/they agree' (no 'be'); entry has no explicit note about 'I am agree'",
    "dueAtUtc": "2026-10-15T12:00:00Z",
    "dueAtCairo": "2026-10-15T15:00:00+03:00",
    "lang": "ar"
@@ -421,7 +421,7 @@
    "text": "❌✅ غلطة شائعة\n\n❌ We discussed about the plan\n✅ We discussed the plan\n\nكلمة discuss معناها بالفعل \"تناقش\"، فنقول discuss the plan من غير about.\n\n🗣️ ابعت البوست لصاحبك اللي لسه بيغلط فيها!\n\n#Speaklo #تعلم_الانجليزية #انجليزي #غلطة_شائعة",
    "bufferId": "6acfe3bc66fe8729d5915115",
    "status": "sent",
-   "source": "Merriam-Webster/Cambridge: 'discuss' is transitive, takes a direct object (no 'about') (Arabic gloss: standard translation)",
+   "source": "Merriam-Webster 'discuss': transitive verb; 'She discussed the plan with several colleagues'; no usage note about 'discuss about'",
    "dueAtUtc": "2026-10-16T12:00:00Z",
    "dueAtCairo": "2026-10-16T15:00:00+03:00",
    "lang": "ar"
@@ -580,6 +580,58 @@
    "source": "Oxford Learner's Dictionaries 'tell': say never has a person as object; 'The doctor said me to stay in bed' is incorrect (Arabic gloss: standard translation)",
    "dueAtUtc": "2026-10-20T12:00:00Z",
    "dueAtCairo": "2026-10-20T15:00:00+03:00",
+   "lang": "ar"
+  },
+  {
+   "key": "long#1#ar",
+   "slot": "بوست طويل (بدون صورة)",
+   "topic": "7 common mistakes",
+   "image": null,
+   "text": "❌✅ ٧ أخطاء في الإنجليزي بنقع فيها كلنا (وإزاي تصلحها)\n\nالأخطاء دي مش غباء ولا قلة مذاكرة، دي ترجمة حرفية من العربي. وكل غلطة منها ليها سبب بسيط لو فهمته مش هتغلط فيها تاني 👇\n\n1️⃣ ❌ I am agree with you\n✅ I agree with you\nالسبب: agree فعل بالفعل (I agree / he agrees)، فمفيش am قبله.\n\n2️⃣ ❌ We discussed about the plan\n✅ We discussed the plan\nالسبب: discuss معناها \"ناقش\" وبتاخد المفعول على طول (discuss the plan) من غير about.\n\n3️⃣ ❌ I need some informations\n✅ I need some information\nالسبب: information مش بتتعد ومفيهاش جمع. لو عايز تعدها قول: a piece of information.\n\n4️⃣ ❌ I have 25 years\n✅ I am 25 years old\nالسبب: في الإنجليزي بنقول عمرنا بـ I am + الرقم + years old مش I have.\n\n5️⃣ ❌ Can you explain me the situation?\n✅ Can you explain the situation to me?\nالسبب: explain مبتاخدش me مباشرة، بنقول explain + الحاجة + to me.\n\n6️⃣ ❌ The doctor said me to stay in bed\n✅ The doctor told me to stay in bed\nالسبب: tell هي اللي بتاخد الشخص بعدها (told me)، لكن say مبتاخدش شخص مباشرة. لو عايز تستخدم say قول: said to me.\n\n7️⃣ ❌ I made a photo of the sunset\n✅ I took a photo of the sunset\nالسبب: make معناها نصنع حاجة جديدة، لكن الصورة بنلتقطها بس، فبنقول take a photo.\n\n💡 نصيحة: متحفظش القاعدة بس، احفظ الجملة الصح كاملة (I agree with you / I am 25 years old) وكررها بصوت عالي. الجملة هتطلع لوحدها وقت ما تحتاجها.\n\n💬 أنهي غلطة منهم كنت بتقع فيها؟ اكتب رقمها في الكومنتات 👇\nوابعت البوست لصاحبك اللي لسه بيغلط فيها 🙌\n\n#Speaklo #تعلم_الانجليزية #انجليزي #غلطة_شائعة",
+   "bufferId": null,
+   "status": "pending",
+   "source": "agree: Oxford Learner's Dictionaries 'agree' (conjugated I agree, no 'be'); discuss: Merriam-Webster 'discuss' (transitive verb, 'She discussed the plan with several colleagues'); information: Cambridge Dictionary [U] uncountable, 'a piece/bit of information'; age: pressbooks.nebraska.edu/jonn ('I have 25 years' -> 'I am 25 years old'); explain: Oxford Learner's 'explain' (cannot say 'explain me'; 'Can you explain the situation to me?'); tell/say: Oxford Learner's 'tell' (say never has a person as object; 'The doctor said me to stay in bed' incorrect); photo: jakubmarian.com make-a-photo-vs-take-a-photo",
+   "dueAtUtc": null,
+   "dueAtCairo": null,
+   "lang": "ar"
+  },
+  {
+   "key": "long#2#ar",
+   "slot": "بوست طويل (بدون صورة)",
+   "topic": "past simple vs present perfect",
+   "image": null,
+   "text": "⏰ الفرق بين Past Simple و Present Perfect (من غير تعقيد)\n\nده من أكتر الحاجات اللي بتلخبط في الإنجليزي. القاعدة كلها في سؤال واحد:\n\n❓ هل بتتكلم عن وقت انتهى؟ ولا عن حاجة لسه ليها علاقة بالحاضر؟\n\n1️⃣ Past Simple = حاجة خلصت في وقت محدد انتهى\n• I went to Rome in 2019.\n• I finished the course a month ago.\nكلمات بتدل عليه: yesterday, ago, last week, in 2019.\n\n2️⃣ Present Perfect = (have / has + التصريف التالت للفعل) حاجة حصلت في الماضي بس ليها علاقة بدلوقتي\n• I've lived here since 2006. (بدأت في الماضي ولسه عايش هنا)\n• I've already had dinner. (النتيجة موجودة دلوقتي: مش جعان)\n\n⚠️ القاعدة الذهبية: لو ذكرت وقت انتهى (yesterday / in 2008) استخدم Past Simple.\n✅ I went to the USA in 2008.\n❌ I've been to the USA in 2008.\n\n📝 جرّب نفسك (الإجابة تحت):\n1) I ___ (see) that movie last night.\n2) She ___ (live) here since 2020.\n3) We ___ (finish) the project yesterday.\n\n.\n.\n.\n✅ الإجابات: 1) saw 2) has lived 3) finished\n\n💬 اكتب جملتين من عندك، واحدة بكل زمن، في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #قواعد_انجليزي",
+   "bufferId": null,
+   "status": "pending",
+   "source": "Cambridge Dictionary blog 'Present perfect or past simple?' (https://dictionaryblog.cambridge.org/2014/04/09/present-perfect-or-past-simple/): past simple for finished time, present perfect links to present; 'I finished the course a month ago', 'I've lived here since 2006', 'I've already had dinner', 'I went to the USA in 2008' correct vs 'I've been to the USA in 2008' not",
+   "dueAtUtc": null,
+   "dueAtCairo": null,
+   "lang": "ar"
+  },
+  {
+   "key": "long#3#ar",
+   "slot": "بوست طويل (بدون صورة)",
+   "topic": "since vs for",
+   "image": null,
+   "text": "📌 Since ولا For؟ الحل في سؤال واحد\n\nالاتنين بيتقالوا كتير مع Present Perfect (have / has + التصريف التالت)، والفرق بينهم بسيط:\n\n⏳ FOR = مدة (كام من الوقت؟)\n• for two days\n• for three years\n• for a long time\nمثال: I have worked here for three years.\n\n📍 SINCE = نقطة بداية (من امتى؟)\n• since 2020\n• since Monday\n• since I was a child\nمثال: I have worked here since 2022.\n\n💡 الحيلة: اسأل نفسك الأول\n• لو الإجابة \"كام؟\" → for\n• لو الإجابة \"من امتى؟\" → since\n\n📝 جرّب نفسك (الإجابة تحت):\n1) I have known him ___ 2015.\n2) She has worked here ___ three years.\n3) We have been friends ___ childhood.\n4) I haven't seen him ___ two weeks.\n\n.\n.\n.\n✅ الإجابات: 1) since 2) for 3) since 4) for\n\n💬 اكتب جملة من عندك فيها since وجملة فيها for 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #قواعد_انجليزي",
+   "bufferId": null,
+   "status": "pending",
+   "source": "Merriam-Webster 'for' (sense: duration of time, 'gone for two days'); Oxford Learner's 'since' (since with present perfect marks a starting event in the past until now); Cambridge Dictionary blog (I've lived here since 2006)",
+   "dueAtUtc": null,
+   "dueAtCairo": null,
+   "lang": "ar"
+  },
+  {
+   "key": "long#4#ar",
+   "slot": "بوست طويل (بدون صورة)",
+   "topic": "study methods",
+   "image": null,
+   "text": "🧠 إزاي تذاكر إنجليزي بطريقة فعلًا بتشتغل؟\n\nكتير مننا بيذاكر بإنه يعيد قراءة الكلام ويعلّم عليه بالقلم. الأبحاث بتقول إن دي مش أحسن طريقة.\n\n📚 مراجعة كبيرة (Dunlosky وزمايله، 2013) قيّمت طرق المذاكرة المشهورة، وطلعت النتيجة:\n✅ أقوى طريقتين:\n1. اختبار نفسك (Practice testing): زي الفلاش كاردز وأسئلة آخر الدرس.\n2. توزيع المذاكرة على وقت (Distributed practice): بدل ما تذاكر كل حاجة في يوم واحد، وزّعها على أيام.\n❌ طرق فايدتها قليلة: تلخيص الكلام، التظليل والتسطير، وإعادة القراءة.\n\n⚠️ معلومة مهمة: الدراسة دي عن المذاكرة بشكل عام، مش عن الإنجليزي بس. بس المبدأ بينطبق على تعلم الكلمات والقواعد.\n\n🛠️ طريقة عملية (اقتراحي أنا مش من الدراسة):\n• اكتب الكلمة الجديدة على كارت: الكلمة الإنجليزي في وش، ومعناها وجملة بيها في ضهر.\n• بدل ما تقرا الكارت، غطّي المعنى وحاول تفتكره الأول (ده اختبار نفسك).\n• راجع الكروت على أيام متفرقة، مش كلها في ليلة واحدة.\n• اللي بتفتكره بسهولة قلّل مراجعته، واللي بتنساه راجعه أكتر.\n\n💬 إنت بتذاكر إنجليزي بإيه؟ فلاش كاردز ولا حاجة تانية؟ احكيلنا 👇\n\nالمصدر: Association for Psychological Science، \"Which Study Strategies Make the Grade?\" \n\n#Speaklo #تعلم_الانجليزية #انجليزي #مذاكرة",
+   "bufferId": null,
+   "status": "pending",
+   "source": "Association for Psychological Science press release on Dunlosky et al. 2013 (https://www.psychologicalscience.org/news/releases/which-study-strategies-make-the-grade.html): practice testing and distributed practice rated highest utility; summarization, highlighting/underlining, rereading low utility; report is about learning techniques in general. The flashcard routine is labeled as Claude's own suggestion",
+   "dueAtUtc": null,
+   "dueAtCairo": null,
    "lang": "ar"
   }
  ]
