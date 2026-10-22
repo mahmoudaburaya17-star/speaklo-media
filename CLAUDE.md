@@ -17,3 +17,7 @@ Every word, IPA, definition, idiom and grammar rule must be checked against a di
 
 ## Routine when the user says "continue"
 Sync with Buffer, mark sent/error posts in the ledger, fix any error post, build the next images (Pillow script style: Poppins, sizes 1080x1080), view them, push to this repo, then schedule into free slots following the checks above. Report only what changed.
+
+
+## Update 2026-10-22
+User approved reducing to 3 posts/day: slots 09:00 (word), 15:00 (mistake), 21:00 (quiz) Cairo. Long posts (4) were published Oct 19-20. Reels: silent animated 9:16 videos made with Pillow+ffmpeg are possible (no voice); user test pending. edit_post needs full payload (text+assets+metadata).
