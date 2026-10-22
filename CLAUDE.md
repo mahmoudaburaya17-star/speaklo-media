@@ -21,3 +21,5 @@ Sync with Buffer, mark sent/error posts in the ledger, fix any error post, build
 
 ## Update 2026-10-22
 User approved reducing to 3 posts/day: slots 09:00 (word), 15:00 (mistake), 21:00 (quiz) Cairo. Long posts (4) were published Oct 19-20. Reels: silent animated 9:16 videos made with Pillow+ffmpeg are possible (no voice); user test pending. edit_post needs full payload (text+assets+metadata).
+
+USER RULE (2026-10-22): write one LONG valuable post (Arabic, title card, no quiz answers, source cited) EVERY DAY. If today has none, write it and schedule it at ~20:00 Cairo, replacing/removing another queued post if the 10-post cap is full (log the removed one in ledger to reschedule). Long post 5 (make vs do) scheduled 2026-10-22 20:00. 'available' word post was removed from the queue to make room.

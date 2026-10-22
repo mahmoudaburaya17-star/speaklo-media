@@ -828,10 +828,11 @@
    "image": "images/2026-10-22/1700_word_available.png",
    "text": "🌟 كلمة اليوم: AVAILABLE (متاح)\n\n📖 المعنى: موجود ومتاح تستخدمه أو تحصل عليه\n💬 مثال: Is this seat available?\n↳ المقعد ده متاح؟\n\n✍️ اكتب جملتك بالكلمة دي في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كلمة_اليوم",
    "bufferId": "6ad9ee77bcda36d1d416d770",
-   "status": "scheduled",
+   "status": "deleted",
    "dueAtCairo": "2026-10-25T15:00:00+03:00",
    "lang": "ar",
-   "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
+   "source": "standard grammar rules and standard dictionary entries; not individually source-checked",
+   "note": "removed to free a slot for long post; reschedule later"
   },
   {
    "key": "2026-10-22T20:00:00+03:00#mistake_dont#ar",
@@ -940,6 +941,18 @@
    "dueAtCairo": "2026-10-25T09:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
+  },
+  {
+   "key": "2026-10-22T20:00+03:00#long#5#ar",
+   "slot": "long",
+   "topic": "make vs do",
+   "image": "images/2026-10-22/2000_long5_make_do.png",
+   "text": "(see Buffer post; long post make vs do)",
+   "bufferId": "6ad9efacb7096b8d38108d72",
+   "status": "scheduled",
+   "dueAtCairo": "2026-10-22T20:00:00+03:00",
+   "lang": "ar",
+   "source": "english-grammar.app/learn/verb-forms/make-vs-do (collocation lists; page says tendencies, not absolute rules)"
   }
  ]
 }
