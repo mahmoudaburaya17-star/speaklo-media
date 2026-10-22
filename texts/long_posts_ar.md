@@ -150,3 +150,5 @@
 #Speaklo #تعلم_الانجليزية #انجليزي #مذاكرة
 
 <!-- source: Association for Psychological Science press release on Dunlosky et al. 2013 (https://www.psychologicalscience.org/news/releases/which-study-strategies-make-the-grade.html): practice testing and distributed practice rated highest utility; summarization, highlighting/underlining, rereading low utility; report is about learning techniques in general. The flashcard routine is labeled as Claude's own suggestion -->
+# make vs do (2026-10-22)
+Source: english-grammar.app/learn/verb-forms/make-vs-do (collocation lists; page says these are tendencies, not absolute rules)
