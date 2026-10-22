@@ -816,7 +816,7 @@
    "image": "images/2026-10-22/1400_quiz_looking_forward.png",
    "text": "🧠 كويز اليوم!\n\nI'm looking forward to ___ you.\nA) see\nB) seeing\n\n💬 اكتب إجابتك في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كويز_انجليزي",
    "bufferId": "6ad7a2b458633da51386e5b6",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-22T14:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules (did+base verb, enjoy+-ing, there are, look forward to+-ing) and standard dictionary entries (improve, recommend); not individually source-checked"
@@ -854,7 +854,7 @@
    "text": "🧠 كويز اليوم!\n\nShe is ___ than her brother.\nA) taller\nB) more tall\n\n💬 اكتب إجابتك في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كويز_انجليزي",
    "bufferId": "6ad9ee7cb3b4a1914c952d42",
    "status": "scheduled",
-   "dueAtCairo": "2026-10-22T21:00:00+03:00",
+   "dueAtCairo": "2026-10-22T22:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
   },
@@ -865,10 +865,11 @@
    "image": "images/2026-10-23/0800_word_appreciate.png",
    "text": "🌟 كلمة اليوم: APPRECIATE (يقدّر)\n\n📖 المعنى: تشكر حد وتحس بقيمة اللي عمله\n💬 مثال: I really appreciate your help.\n↳ بقدّر مساعدتك جدًا.\n\n✍️ اكتب جملتك بالكلمة دي في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كلمة_اليوم",
    "bufferId": "6ad9ee7fb7096b8d38103fd2",
-   "status": "scheduled",
+   "status": "deleted",
    "dueAtCairo": "2026-10-23T09:00:00+03:00",
    "lang": "ar",
-   "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
+   "source": "standard grammar rules and standard dictionary entries; not individually source-checked",
+   "note": "removed 2026-10-22 for 4/day re-plan; reschedule later (appreciate, suggest(now Reel), bored, in May, familiar)"
   },
   {
    "key": "2026-10-23T11:00:00+03:00#mistake_more_better#ar",
@@ -878,7 +879,7 @@
    "text": "❌✅ غلطة شائعة\n\n❌ My friend is more better than me\n✅ My friend is better than me\n\nbetter معناها أحسن لوحدها، مفيش more قبلها\n\n🗣️ ابعت البوست لصاحبك اللي لسه بيغلط فيها!\n\n#Speaklo #تعلم_الانجليزية #انجليزي #غلطة_شائعة",
    "bufferId": "6ad9ee8128df0d23e7362ec4",
    "status": "scheduled",
-   "dueAtCairo": "2026-10-23T15:00:00+03:00",
+   "dueAtCairo": "2026-10-23T13:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
   },
@@ -890,7 +891,7 @@
    "text": "🧠 كويز اليوم!\n\nHe has ___ money.\nA) a few\nB) a little\n\n💬 اكتب إجابتك في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كويز_انجليزي",
    "bufferId": "6ad9ee84b3b4a1914c952e99",
    "status": "scheduled",
-   "dueAtCairo": "2026-10-23T21:00:00+03:00",
+   "dueAtCairo": "2026-10-23T22:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
   },
@@ -901,10 +902,11 @@
    "image": "images/2026-10-23/1700_word_suggest.png",
    "text": "🌟 كلمة اليوم: SUGGEST (يقترح)\n\n📖 المعنى: تقول فكرة أو رأي عشان حد ياخد بيه\n💬 مثال: I suggest we leave early.\n↳ أقترح نمشي بدري.\n\n✍️ اكتب جملتك بالكلمة دي في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كلمة_اليوم",
    "bufferId": "6ad9ee8728df0d23e736302f",
-   "status": "scheduled",
+   "status": "deleted",
    "dueAtCairo": "2026-10-24T09:00:00+03:00",
    "lang": "ar",
-   "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
+   "source": "standard grammar rules and standard dictionary entries; not individually source-checked",
+   "note": "removed 2026-10-22 for 4/day re-plan; reschedule later (appreciate, suggest(now Reel), bored, in May, familiar)"
   },
   {
    "key": "2026-10-23T20:00:00+03:00#mistake_bored#ar",
@@ -913,10 +915,11 @@
    "image": "images/2026-10-23/2000_mistake_bored.png",
    "text": "❌✅ غلطة شائعة\n\n❌ I am boring today\n✅ I am bored today\n\nbored يعني زهقان، لكن boring يعني مُمل\n\n🗣️ ابعت البوست لصاحبك اللي لسه بيغلط فيها!\n\n#Speaklo #تعلم_الانجليزية #انجليزي #غلطة_شائعة",
    "bufferId": "6ad9ee8ae0831046db0c3f5f",
-   "status": "scheduled",
+   "status": "deleted",
    "dueAtCairo": "2026-10-24T15:00:00+03:00",
    "lang": "ar",
-   "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
+   "source": "standard grammar rules and standard dictionary entries; not individually source-checked",
+   "note": "removed 2026-10-22 for 4/day re-plan; reschedule later (appreciate, suggest(now Reel), bored, in May, familiar)"
   },
   {
    "key": "2026-10-23T23:00:00+03:00#quiz_in_may#ar",
@@ -925,10 +928,11 @@
    "image": "images/2026-10-23/2300_quiz_in_may.png",
    "text": "🧠 كويز اليوم!\n\nMy birthday is ___ May.\nA) in\nB) on\n\n💬 اكتب إجابتك في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كويز_انجليزي",
    "bufferId": "6ad9ee8cb7096b8d38104629",
-   "status": "scheduled",
+   "status": "deleted",
    "dueAtCairo": "2026-10-24T21:00:00+03:00",
    "lang": "ar",
-   "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
+   "source": "standard grammar rules and standard dictionary entries; not individually source-checked",
+   "note": "removed 2026-10-22 for 4/day re-plan; reschedule later (appreciate, suggest(now Reel), bored, in May, familiar)"
   },
   {
    "key": "2026-10-24T08:00:00+03:00#word_familiar#ar",
@@ -937,10 +941,11 @@
    "image": "images/2026-10-24/0800_word_familiar.png",
    "text": "🌟 كلمة اليوم: FAMILIAR (مألوف)\n\n📖 المعنى: حاجة أو حد تعرفه أو شفته قبل كده\n💬 مثال: Your face looks familiar.\n↳ وشك شكله مألوف.\n\n✍️ اكتب جملتك بالكلمة دي في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كلمة_اليوم",
    "bufferId": "6ad9ee8f28df0d23e73632f3",
-   "status": "scheduled",
+   "status": "deleted",
    "dueAtCairo": "2026-10-25T09:00:00+03:00",
    "lang": "ar",
-   "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
+   "source": "standard grammar rules and standard dictionary entries; not individually source-checked",
+   "note": "removed 2026-10-22 for 4/day re-plan; reschedule later (appreciate, suggest(now Reel), bored, in May, familiar)"
   },
   {
    "key": "2026-10-22T20:00+03:00#long#5#ar",
@@ -953,6 +958,66 @@
    "dueAtCairo": "2026-10-22T20:00:00+03:00",
    "lang": "ar",
    "source": "english-grammar.app/learn/verb-forms/make-vs-do (collocation lists; page says tendencies, not absolute rules)"
+  },
+  {
+   "key": "2026-10-23T09:00+03:00#reel#prefer",
+   "slot": "reel",
+   "topic": "prefer",
+   "image": "reels/2026-10-23_word_prefer.mp4",
+   "text": "(see Buffer post)",
+   "bufferId": "6ad9f12ee0831046db0cdab7",
+   "status": "scheduled",
+   "dueAtCairo": "2026-10-23T09:00:00+03:00",
+   "lang": "ar",
+   "source": "prefer: listed as emotion/state verb on english-grammar.app/learn/tenses/mixed-tenses; meaning standard dictionary"
+  },
+  {
+   "key": "2026-10-23T20:00+03:00#long#6",
+   "slot": "long",
+   "topic": "much/many/a lot of",
+   "image": "images/2026-10-23/2000_long6_much_many.png",
+   "text": "(see Buffer post)",
+   "bufferId": "6ad9f13cb3b4a1914c95d563",
+   "status": "scheduled",
+   "dueAtCairo": "2026-10-23T20:00:00+03:00",
+   "lang": "ar",
+   "source": "english-grammar.app/learn/determiners/much-many-a-lot"
+  },
+  {
+   "key": "2026-10-24T09:00+03:00#reel#suggest",
+   "slot": "reel",
+   "topic": "suggest",
+   "image": "reels/2026-10-24_word_suggest.mp4",
+   "text": "(see Buffer post)",
+   "bufferId": "6ad9f13fb7096b8d3810f383",
+   "status": "scheduled",
+   "dueAtCairo": "2026-10-24T09:00:00+03:00",
+   "lang": "ar",
+   "source": "standard dictionary entry; not individually source-checked"
+  },
+  {
+   "key": "2026-10-24T13:00+03:00#long#7",
+   "slot": "long",
+   "topic": "in/on/at time",
+   "image": "images/2026-10-24/1300_long7_in_on_at.png",
+   "text": "(see Buffer post)",
+   "bufferId": "6ad9f14528df0d23e736efe3",
+   "status": "scheduled",
+   "dueAtCairo": "2026-10-24T13:00:00+03:00",
+   "lang": "ar",
+   "source": "english-grammar.app/learn/prepositions/in-on-at"
+  },
+  {
+   "key": "2026-10-24T20:00+03:00#long#8",
+   "slot": "long",
+   "topic": "present simple vs continuous",
+   "image": "images/2026-10-24/2000_long8_simple_continuous.png",
+   "text": "(see Buffer post)",
+   "bufferId": "6ad9f14ce0831046db0ce530",
+   "status": "scheduled",
+   "dueAtCairo": "2026-10-24T20:00:00+03:00",
+   "lang": "ar",
+   "source": "english-grammar.app/learn/tenses/mixed-tenses"
   }
  ]
 }
