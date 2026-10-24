@@ -841,7 +841,7 @@
    "image": "images/2026-10-22/2000_mistake_dont.png",
    "text": "❌✅ غلطة شائعة\n\n❌ He don't like coffee\n✅ He doesn't like coffee\n\nمع he/she/it بنستخدم doesn't مش don't\n\n🗣️ ابعت البوست لصاحبك اللي لسه بيغلط فيها!\n\n#Speaklo #تعلم_الانجليزية #انجليزي #غلطة_شائعة",
    "bufferId": "6ad9ee7aebec8224f3bb7b47",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-22T15:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
@@ -853,7 +853,7 @@
    "image": "images/2026-10-22/2300_quiz_taller.png",
    "text": "🧠 كويز اليوم!\n\nShe is ___ than her brother.\nA) taller\nB) more tall\n\n💬 اكتب إجابتك في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كويز_انجليزي",
    "bufferId": "6ad9ee7cb3b4a1914c952d42",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-22T22:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
@@ -878,7 +878,7 @@
    "image": "images/2026-10-23/1100_mistake_more_better.png",
    "text": "❌✅ غلطة شائعة\n\n❌ My friend is more better than me\n✅ My friend is better than me\n\nbetter معناها أحسن لوحدها، مفيش more قبلها\n\n🗣️ ابعت البوست لصاحبك اللي لسه بيغلط فيها!\n\n#Speaklo #تعلم_الانجليزية #انجليزي #غلطة_شائعة",
    "bufferId": "6ad9ee8128df0d23e7362ec4",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-23T13:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
@@ -890,7 +890,7 @@
    "image": "images/2026-10-23/1400_quiz_a_little.png",
    "text": "🧠 كويز اليوم!\n\nHe has ___ money.\nA) a few\nB) a little\n\n💬 اكتب إجابتك في الكومنتات 👇\n\n#Speaklo #تعلم_الانجليزية #انجليزي #كويز_انجليزي",
    "bufferId": "6ad9ee84b3b4a1914c952e99",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-23T22:00:00+03:00",
    "lang": "ar",
    "source": "standard grammar rules and standard dictionary entries; not individually source-checked"
@@ -954,7 +954,7 @@
    "image": "images/2026-10-22/2000_long5_make_do.png",
    "text": "(see Buffer post; long post make vs do)",
    "bufferId": "6ad9efacb7096b8d38108d72",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-22T20:00:00+03:00",
    "lang": "ar",
    "source": "english-grammar.app/learn/verb-forms/make-vs-do (collocation lists; page says tendencies, not absolute rules)"
@@ -966,7 +966,7 @@
    "image": "reels/2026-10-23_word_prefer.mp4",
    "text": "(see Buffer post)",
    "bufferId": "6ad9f12ee0831046db0cdab7",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-23T09:00:00+03:00",
    "lang": "ar",
    "source": "prefer: listed as emotion/state verb on english-grammar.app/learn/tenses/mixed-tenses; meaning standard dictionary"
@@ -978,7 +978,7 @@
    "image": "images/2026-10-23/2000_long6_much_many.png",
    "text": "(see Buffer post)",
    "bufferId": "6ad9f13cb3b4a1914c95d563",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-23T20:00:00+03:00",
    "lang": "ar",
    "source": "english-grammar.app/learn/determiners/much-many-a-lot"
@@ -990,7 +990,7 @@
    "image": "reels/2026-10-24_word_suggest.mp4",
    "text": "(see Buffer post)",
    "bufferId": "6ad9f13fb7096b8d3810f383",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-24T09:00:00+03:00",
    "lang": "ar",
    "source": "standard dictionary entry; not individually source-checked"
@@ -1002,7 +1002,7 @@
    "image": "images/2026-10-24/1300_long7_in_on_at.png",
    "text": "(see Buffer post)",
    "bufferId": "6ad9f14528df0d23e736efe3",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-24T13:00:00+03:00",
    "lang": "ar",
    "source": "english-grammar.app/learn/prepositions/in-on-at"
@@ -1014,10 +1014,100 @@
    "image": "images/2026-10-24/2000_long8_simple_continuous.png",
    "text": "(see Buffer post)",
    "bufferId": "6ad9f14ce0831046db0ce530",
-   "status": "scheduled",
+   "status": "sent",
    "dueAtCairo": "2026-10-24T20:00:00+03:00",
    "lang": "ar",
    "source": "english-grammar.app/learn/tenses/mixed-tenses"
+  },
+  {
+   "key": "2026-10-25T09:00+03:00#reel#appreciate",
+   "topic": "appreciate",
+   "image": "reels/2026-10-25_word_appreciate.mp4",
+   "bufferId": "6add01e78b3d437ddcd47595",
+   "status": "scheduled",
+   "source": "not individually source-checked",
+   "dueAtUtc": "2026-10-25T06:00:00Z"
+  },
+  {
+   "key": "2026-10-25T13:00+03:00#mistake_bored#ar",
+   "topic": "I am boring -> I am bored",
+   "image": "images/2026-10-23/2000_mistake_bored.png",
+   "bufferId": "6add01ea0b5343d0709b4d3a",
+   "status": "scheduled",
+   "source": "not individually source-checked",
+   "dueAtUtc": "2026-10-25T10:00:00Z"
+  },
+  {
+   "key": "2026-10-25T20:00+03:00#long#9#ar",
+   "topic": "comparatives",
+   "image": "images/2026-10-25/2000_long9_comparatives.png",
+   "bufferId": "6add01f16887a2efc1d01f03",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/adjectives-adverbs/comparatives",
+   "dueAtUtc": "2026-10-25T17:00:00Z"
+  },
+  {
+   "key": "2026-10-25T22:00+03:00#quiz_in_may#ar",
+   "topic": "quiz: birthday in/on May",
+   "image": "images/2026-10-23/2300_quiz_in_may.png",
+   "bufferId": "6add01f33d5b27036b9c5153",
+   "status": "scheduled",
+   "source": "not individually source-checked",
+   "dueAtUtc": "2026-10-25T19:00:00Z"
+  },
+  {
+   "key": "2026-10-26T09:00+03:00#reel#familiar",
+   "topic": "familiar",
+   "image": "reels/2026-10-26_word_familiar.mp4",
+   "bufferId": "6add01f66887a2efc1d01fe0",
+   "status": "scheduled",
+   "source": "not individually source-checked",
+   "dueAtUtc": "2026-10-26T06:00:00Z"
+  },
+  {
+   "key": "2026-10-26T13:00+03:00#long#10#ar",
+   "topic": "some/any",
+   "image": "images/2026-10-26/1300_long10_some_any.png",
+   "bufferId": "6add01fbe4be8a4d8674082b",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/determiners/some-any",
+   "dueAtUtc": "2026-10-26T10:00:00Z"
+  },
+  {
+   "key": "2026-10-26T20:00+03:00#long#11#ar",
+   "topic": "gerund vs infinitive",
+   "image": "images/2026-10-26/2000_long11_gerund_infinitive.png",
+   "bufferId": "6add02018b3d437ddcd47a39",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/verb-forms/gerunds-and-infinitives",
+   "dueAtUtc": "2026-10-26T17:00:00Z"
+  },
+  {
+   "key": "2026-10-26T22:00+03:00#quiz_sun_rises#ar",
+   "topic": "quiz: sun rises",
+   "image": "images/2026-10-26/2200_quiz_sun_rises.png",
+   "bufferId": "6add02040b5343d0709b5249",
+   "status": "scheduled",
+   "source": "english-grammar.app mixed tenses lesson (present simple for facts)",
+   "dueAtUtc": "2026-10-26T19:00:00Z"
+  },
+  {
+   "key": "2026-10-27T09:00+03:00#reel#available",
+   "topic": "available",
+   "image": "reels/2026-10-27_word_available.mp4",
+   "bufferId": "6add0207e4be8a4d867409e3",
+   "status": "scheduled",
+   "source": "not individually source-checked",
+   "dueAtUtc": "2026-10-27T06:00:00Z"
+  },
+  {
+   "key": "2026-10-27T13:00+03:00#mistake_seen_yesterday#ar",
+   "topic": "have seen yesterday -> saw",
+   "image": "images/2026-10-27/1300_mistake_seen_yesterday.png",
+   "bufferId": "6add02096887a2efc1d0242d",
+   "status": "scheduled",
+   "source": "Cambridge Dictionary blog note on past simple for finished time",
+   "dueAtUtc": "2026-10-27T10:00:00Z"
   }
  ]
 }

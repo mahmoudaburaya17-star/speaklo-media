@@ -26,3 +26,6 @@ USER RULE (2026-10-22): write one LONG valuable post (Arabic, title card, no qui
 
 ## PLAN v3 (user, 2026-10-22): 4 posts/day, 1 long post on some days and 2 on others (alternate), daily Reel at my discretion, best times.
 Slots (Cairo): 09:00 Reel (word of the day, silent animated 9:16, tools/reel2.py), 13:00 mistake image OR long post on 2-long days, 20:00 long post (title card), 22:00 quiz. Best-time rationale is my inference (Egypt: morning commute, lunch, evening peak), not measured; re-check with Insights. Buffer accepts Reels via create_post metadata.facebook.type='reel' + video asset URL (GitHub raw mp4 worked). Cap 10 scheduled: ~2.5 days queued. Removed from queue for later: appreciate, bored, in May, familiar. Long posts must cite a source page (english-grammar.app lessons used so far). Reel zoompan: feed ONE still frame per input (no -loop) or frames multiply.
+
+## Update 2026-10-24
+Queue filled Oct 25-27 (10 posts, plan v3 slots, all +03:00): Reels 09:00 (appreciate, familiar, available), 13:00 mistakes/long, 20:00 long (comparatives; gerund vs infinitive), 22:00 quiz. Long 10 (some/any) at Oct 26 13:00. Metrics still ~0-2 impressions per post. Egypt DST ends 2026-10-29: use +02:00 for any dueAt from Oct 29. Pending: user voice recording for Reels, Insights screenshots. Old ledger 'scheduled' entries up to Oct 24 were marked sent.
