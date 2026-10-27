@@ -29,3 +29,6 @@ Slots (Cairo): 09:00 Reel (word of the day, silent animated 9:16, tools/reel2.py
 
 ## Update 2026-10-24
 Queue filled Oct 25-27 (10 posts, plan v3 slots, all +03:00): Reels 09:00 (appreciate, familiar, available), 13:00 mistakes/long, 20:00 long (comparatives; gerund vs infinitive), 22:00 quiz. Long 10 (some/any) at Oct 26 13:00. Metrics still ~0-2 impressions per post. Egypt DST ends 2026-10-29: use +02:00 for any dueAt from Oct 29. Pending: user voice recording for Reels, Insights screenshots. Old ledger 'scheduled' entries up to Oct 24 were marked sent.
+
+## Update 2026-10-27
+Queue refilled with 9 posts (1 free slot left): Oct 27 21:30 long12 articles (the 20:00 slot was missed), 22:30 quiz; Oct 28 09:00 Reel support, 13:00 long13 present perfect, 20:00 long14 uncountable, 22:00 quiz; Oct 29 (+02:00, DST) 13:00 mistake has gone, 20:00 long15 each/every/all, 22:00 quiz yet. Oct 29 09:00 slot still empty (needs a Reel word). Arabic title cards: avoid ending the title with Latin or a question mark (bidi). Quiz options must have one clearly correct answer per the source.

@@ -1024,7 +1024,7 @@
    "topic": "appreciate",
    "image": "reels/2026-10-25_word_appreciate.mp4",
    "bufferId": "6add01e78b3d437ddcd47595",
-   "status": "scheduled",
+   "status": "sent",
    "source": "not individually source-checked",
    "dueAtUtc": "2026-10-25T06:00:00Z"
   },
@@ -1033,7 +1033,7 @@
    "topic": "I am boring -> I am bored",
    "image": "images/2026-10-23/2000_mistake_bored.png",
    "bufferId": "6add01ea0b5343d0709b4d3a",
-   "status": "scheduled",
+   "status": "sent",
    "source": "not individually source-checked",
    "dueAtUtc": "2026-10-25T10:00:00Z"
   },
@@ -1042,7 +1042,7 @@
    "topic": "comparatives",
    "image": "images/2026-10-25/2000_long9_comparatives.png",
    "bufferId": "6add01f16887a2efc1d01f03",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/adjectives-adverbs/comparatives",
    "dueAtUtc": "2026-10-25T17:00:00Z"
   },
@@ -1051,7 +1051,7 @@
    "topic": "quiz: birthday in/on May",
    "image": "images/2026-10-23/2300_quiz_in_may.png",
    "bufferId": "6add01f33d5b27036b9c5153",
-   "status": "scheduled",
+   "status": "sent",
    "source": "not individually source-checked",
    "dueAtUtc": "2026-10-25T19:00:00Z"
   },
@@ -1060,7 +1060,7 @@
    "topic": "familiar",
    "image": "reels/2026-10-26_word_familiar.mp4",
    "bufferId": "6add01f66887a2efc1d01fe0",
-   "status": "scheduled",
+   "status": "sent",
    "source": "not individually source-checked",
    "dueAtUtc": "2026-10-26T06:00:00Z"
   },
@@ -1069,7 +1069,7 @@
    "topic": "some/any",
    "image": "images/2026-10-26/1300_long10_some_any.png",
    "bufferId": "6add01fbe4be8a4d8674082b",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/determiners/some-any",
    "dueAtUtc": "2026-10-26T10:00:00Z"
   },
@@ -1078,7 +1078,7 @@
    "topic": "gerund vs infinitive",
    "image": "images/2026-10-26/2000_long11_gerund_infinitive.png",
    "bufferId": "6add02018b3d437ddcd47a39",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/verb-forms/gerunds-and-infinitives",
    "dueAtUtc": "2026-10-26T17:00:00Z"
   },
@@ -1087,7 +1087,7 @@
    "topic": "quiz: sun rises",
    "image": "images/2026-10-26/2200_quiz_sun_rises.png",
    "bufferId": "6add02040b5343d0709b5249",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app mixed tenses lesson (present simple for facts)",
    "dueAtUtc": "2026-10-26T19:00:00Z"
   },
@@ -1096,7 +1096,7 @@
    "topic": "available",
    "image": "reels/2026-10-27_word_available.mp4",
    "bufferId": "6add0207e4be8a4d867409e3",
-   "status": "scheduled",
+   "status": "sent",
    "source": "not individually source-checked",
    "dueAtUtc": "2026-10-27T06:00:00Z"
   },
@@ -1105,9 +1105,90 @@
    "topic": "have seen yesterday -> saw",
    "image": "images/2026-10-27/1300_mistake_seen_yesterday.png",
    "bufferId": "6add02096887a2efc1d0242d",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Cambridge Dictionary blog note on past simple for finished time",
    "dueAtUtc": "2026-10-27T10:00:00Z"
+  },
+  {
+   "key": "2026-10-27T21:30+03:00#long#12#ar",
+   "topic": "articles a/an/the",
+   "image": "images/2026-10-27/2000_long12_articles.png",
+   "bufferId": "6ae0e79d51c7284440ead368",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/determiners/articles",
+   "dueAtUtc": "2026-10-27T18:30:00Z"
+  },
+  {
+   "key": "2026-10-27T22:30+03:00#quiz_some_advice#ar",
+   "topic": "quiz: gave me some advice",
+   "image": "images/2026-10-27/2200_quiz_some_advice.png",
+   "bufferId": "6ae0e79fa5a0a93afe9a8461",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/determiners/countable-uncountable",
+   "dueAtUtc": "2026-10-27T19:30:00Z"
+  },
+  {
+   "key": "2026-10-28T09:00+03:00#reel#support",
+   "topic": "support",
+   "image": "reels/2026-10-28_word_support.mp4",
+   "bufferId": "6ae0e7a2049681f2b00ab057",
+   "status": "scheduled",
+   "source": "merriam-webster.com/simple/support (IPA, definition); example is mine",
+   "dueAtUtc": "2026-10-28T06:00:00Z"
+  },
+  {
+   "key": "2026-10-28T13:00+03:00#long#13#ar",
+   "topic": "present perfect",
+   "image": "images/2026-10-28/1300_long13_present_perfect.png",
+   "bufferId": "6ae0e7a9b83eef4600d0ba86",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/tenses/present-perfect",
+   "dueAtUtc": "2026-10-28T10:00:00Z"
+  },
+  {
+   "key": "2026-10-28T20:00+03:00#long#14#ar",
+   "topic": "uncountable nouns",
+   "image": "images/2026-10-28/2000_long14_uncountable.png",
+   "bufferId": "6ae0e7b1b83eef4600d0bdeb",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/determiners/countable-uncountable",
+   "dueAtUtc": "2026-10-28T17:00:00Z"
+  },
+  {
+   "key": "2026-10-28T22:00+03:00#quiz_for_since#ar",
+   "topic": "quiz: lived here for five years",
+   "image": "images/2026-10-28/2200_quiz_for_since.png",
+   "bufferId": "6ae0e7b3a5a0a93afe9a8bd1",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/tenses/present-perfect",
+   "dueAtUtc": "2026-10-28T19:00:00Z"
+  },
+  {
+   "key": "2026-10-29T13:00+02:00#mistake_has_gone#ar",
+   "topic": "has went -> has gone",
+   "image": "images/2026-10-29/1300_mistake_has_gone.png",
+   "bufferId": "6ae0e7b6a5a0a93afe9a8eda",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/tenses/present-perfect",
+   "dueAtUtc": "2026-10-29T11:00:00Z"
+  },
+  {
+   "key": "2026-10-29T20:00+02:00#long#15#ar",
+   "topic": "each/every/all",
+   "image": "images/2026-10-29/2000_long15_each_every_all.png",
+   "bufferId": "6ae0e7bd500f0a489fea8e61",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/determiners/each-every-all",
+   "dueAtUtc": "2026-10-29T18:00:00Z"
+  },
+  {
+   "key": "2026-10-29T22:00+02:00#quiz_yet#ar",
+   "topic": "quiz: haven't finished yet",
+   "image": "images/2026-10-29/2200_quiz_yet.png",
+   "bufferId": "6ae0e7bfb83eef4600d0c2ad",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/tenses/present-perfect",
+   "dueAtUtc": "2026-10-29T20:00:00Z"
   }
  ]
 }
