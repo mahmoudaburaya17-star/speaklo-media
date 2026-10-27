@@ -1129,8 +1129,8 @@
   },
   {
    "key": "2026-10-28T09:00+03:00#reel#support",
-   "topic": "support",
-   "image": "reels/2026-10-28_word_support.mp4",
+   "topic": "support (voiced)",
+   "image": "reels/2026-10-28_word_support_voice.mp4",
    "bufferId": "6ae0e7a2049681f2b00ab057",
    "status": "scheduled",
    "source": "merriam-webster.com/simple/support (IPA, definition); example is mine",
@@ -1189,6 +1189,15 @@
    "status": "scheduled",
    "source": "english-grammar.app/learn/tenses/present-perfect",
    "dueAtUtc": "2026-10-29T20:00:00Z"
+  },
+  {
+   "key": "2026-10-29T09:00+02:00#reel#reliable",
+   "topic": "reliable (voiced)",
+   "image": "reels/2026-10-29_word_reliable.mp4",
+   "bufferId": "6ae0e8e95c0b60ca12b12574",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/reliable (definition, respelling); example is mine",
+   "dueAtUtc": "2026-10-29T07:00:00Z"
   }
  ]
 }
