@@ -1114,7 +1114,7 @@
    "topic": "articles a/an/the",
    "image": "images/2026-10-27/2000_long12_articles.png",
    "bufferId": "6ae0e79d51c7284440ead368",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/determiners/articles",
    "dueAtUtc": "2026-10-27T18:30:00Z"
   },
@@ -1123,7 +1123,7 @@
    "topic": "quiz: gave me some advice",
    "image": "images/2026-10-27/2200_quiz_some_advice.png",
    "bufferId": "6ae0e79fa5a0a93afe9a8461",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/determiners/countable-uncountable",
    "dueAtUtc": "2026-10-27T19:30:00Z"
   },
@@ -1132,7 +1132,7 @@
    "topic": "support (voiced)",
    "image": "reels/2026-10-28_word_support_voice.mp4",
    "bufferId": "6ae0e7a2049681f2b00ab057",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/simple/support (IPA, definition); example is mine",
    "dueAtUtc": "2026-10-28T06:00:00Z"
   },
@@ -1141,7 +1141,7 @@
    "topic": "present perfect",
    "image": "images/2026-10-28/1300_long13_present_perfect.png",
    "bufferId": "6ae0e7a9b83eef4600d0ba86",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/tenses/present-perfect",
    "dueAtUtc": "2026-10-28T10:00:00Z"
   },
@@ -1150,7 +1150,7 @@
    "topic": "uncountable nouns",
    "image": "images/2026-10-28/2000_long14_uncountable.png",
    "bufferId": "6ae0e7b1b83eef4600d0bdeb",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/determiners/countable-uncountable",
    "dueAtUtc": "2026-10-28T17:00:00Z"
   },
@@ -1159,7 +1159,7 @@
    "topic": "quiz: lived here for five years",
    "image": "images/2026-10-28/2200_quiz_for_since.png",
    "bufferId": "6ae0e7b3a5a0a93afe9a8bd1",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/tenses/present-perfect",
    "dueAtUtc": "2026-10-28T19:00:00Z"
   },
@@ -1168,7 +1168,7 @@
    "topic": "has went -> has gone",
    "image": "images/2026-10-29/1300_mistake_has_gone.png",
    "bufferId": "6ae0e7b6a5a0a93afe9a8eda",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/tenses/present-perfect",
    "dueAtUtc": "2026-10-29T11:00:00Z"
   },
@@ -1177,7 +1177,7 @@
    "topic": "each/every/all",
    "image": "images/2026-10-29/2000_long15_each_every_all.png",
    "bufferId": "6ae0e7bd500f0a489fea8e61",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/determiners/each-every-all",
    "dueAtUtc": "2026-10-29T18:00:00Z"
   },
@@ -1186,7 +1186,7 @@
    "topic": "quiz: haven't finished yet",
    "image": "images/2026-10-29/2200_quiz_yet.png",
    "bufferId": "6ae0e7bfb83eef4600d0c2ad",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/tenses/present-perfect",
    "dueAtUtc": "2026-10-29T20:00:00Z"
   },
@@ -1195,9 +1195,99 @@
    "topic": "reliable (voiced)",
    "image": "reels/2026-10-29_word_reliable.mp4",
    "bufferId": "6ae0e8e95c0b60ca12b12574",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/dictionary/reliable (definition, respelling); example is mine",
    "dueAtUtc": "2026-10-29T07:00:00Z"
+  },
+  {
+   "key": "2026-10-30T09:00+02:00#reel#borrow",
+   "topic": "borrow (voiced)",
+   "image": "reels/2026-10-30_word_borrow.mp4",
+   "bufferId": "6ae3bc27b598658e653121c4",
+   "status": "scheduled",
+   "source": "merriam-webster.com/simple/borrow; example from the dictionary page (trimmed)",
+   "dueAtUtc": "2026-10-30T07:00:00Z"
+  },
+  {
+   "key": "2026-10-30T13:00+02:00#long#16#ar",
+   "topic": "adjective vs adverb",
+   "image": "images/2026-10-30/1300_long16_adj_adv.png",
+   "bufferId": "6ae3bc2f8d19aa0a5be5b774",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/adjectives-adverbs/adjective-vs-adverb",
+   "dueAtUtc": "2026-10-30T11:00:00Z"
+  },
+  {
+   "key": "2026-10-30T20:00+02:00#long#17#ar",
+   "topic": "first conditional",
+   "image": "images/2026-10-30/2000_long17_first_conditional.png",
+   "bufferId": "6ae3bc37d62dd708c6db3293",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/conditionals/first-conditional",
+   "dueAtUtc": "2026-10-30T18:00:00Z"
+  },
+  {
+   "key": "2026-10-30T22:00+02:00#quiz_very_well#ar",
+   "topic": "quiz: speaks French very well",
+   "image": "images/2026-10-30/2200_quiz_very_well.png",
+   "bufferId": "6ae3bc398d19aa0a5be5bc23",
+   "status": "scheduled",
+   "source": "english-grammar.app adjective-vs-adverb",
+   "dueAtUtc": "2026-10-30T20:00:00Z"
+  },
+  {
+   "key": "2026-10-31T09:00+02:00#reel#afford",
+   "topic": "afford (voiced)",
+   "image": "reels/2026-10-31_word_afford.mp4",
+   "bufferId": "6ae3bc3db598658e6531254d",
+   "status": "scheduled",
+   "source": "merriam-webster.com/simple/afford; example is mine (adapted)",
+   "dueAtUtc": "2026-10-31T07:00:00Z"
+  },
+  {
+   "key": "2026-10-31T13:00+02:00#mistake_fastly#ar",
+   "topic": "fastly -> fast",
+   "image": "images/2026-10-31/1300_mistake_fastly.png",
+   "bufferId": "6ae3bc3f397c2ef8f347aa45",
+   "status": "scheduled",
+   "source": "english-grammar.app adjective-vs-adverb",
+   "dueAtUtc": "2026-10-31T11:00:00Z"
+  },
+  {
+   "key": "2026-10-31T20:00+02:00#long#18#ar",
+   "topic": "verb + preposition",
+   "image": "images/2026-10-31/2000_long18_verb_preposition.png",
+   "bufferId": "6ae3bc468d19aa0a5be5beb5",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/prepositions/verb-preposition",
+   "dueAtUtc": "2026-10-31T18:00:00Z"
+  },
+  {
+   "key": "2026-10-31T22:00+02:00#quiz_rains#ar",
+   "topic": "quiz: if it rains tomorrow",
+   "image": "images/2026-10-31/2200_quiz_rains.png",
+   "bufferId": "6ae3bc49b598658e6531277d",
+   "status": "scheduled",
+   "source": "english-grammar.app first-conditional",
+   "dueAtUtc": "2026-10-31T20:00:00Z"
+  },
+  {
+   "key": "2026-11-01T09:00+02:00#reel#avoid",
+   "topic": "avoid (voiced)",
+   "image": "reels/2026-11-01_word_avoid.mp4",
+   "bufferId": "6ae3bc4c60532fc2b0d14850",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/avoid; example is mine",
+   "dueAtUtc": "2026-11-01T07:00:00Z"
+  },
+  {
+   "key": "2026-11-01T13:00+02:00#mistake_rely_on#ar",
+   "topic": "rely in -> rely on",
+   "image": "images/2026-11-01/1300_mistake_rely_on.png",
+   "bufferId": "6ae3bc4eb598658e65312813",
+   "status": "scheduled",
+   "source": "english-grammar.app verb-preposition",
+   "dueAtUtc": "2026-11-01T11:00:00Z"
   }
  ]
 }
