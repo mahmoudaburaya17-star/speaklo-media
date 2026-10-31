@@ -38,3 +38,6 @@ USER ASKED (2026-10-27): Reels must have a suitable voice. Done with tools/voice
 
 ## Update 2026-10-29
 DST ended: all dueAt use +02:00 now. Queue filled with 10 posts Oct 30 - Nov 1: Reels (voiced) 09:00 borrow, afford, avoid; Oct 30 13:00 long16 adjective vs adverb, 20:00 long17 first conditional, 22:00 quiz; Oct 31 13:00 mistake fastly, 20:00 long18 verb+preposition, 22:00 quiz; Nov 1 13:00 mistake rely on. All reels now go through tools/voice.py (see voice section). Voiced-reel result: support (Oct 28) got 269 impressions vs 0-2 for the silent reels, reliable (Oct 29) metrics not refreshed yet at last check; one sample, not proven to be the voice.
+
+## Update 2026-10-31
+Queue holds 10: Oct 31 13:00 mistake, 20:00 long18, 22:00 quiz; Nov 1 09:00 Reel avoid, 13:00 mistake; added Nov 1 20:00 long19 can/could/may, 22:00 quiz can use, Nov 2 09:00 Reel allow (voiced), 13:00 long20 tag questions, 20:00 long21 passive. VOICED REEL METRICS (Oct 30 22:15 refresh): support 269 impressions, reliable 477 impressions + 5 reactions + 1 click (first reactions on the page), borrow 286; silent reels had 0-2 each. 3 of 3 voiced vs 0 of 5 silent got reach; still small sample, do not over-claim. Keep Reels voiced. Idea not yet applied: Arabic CTA in Reel last scene. Title cards: keep Arabic-only title and put English in the subtitle line (mixed titles can reorder).

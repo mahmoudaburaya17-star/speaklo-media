@@ -1204,7 +1204,7 @@
    "topic": "borrow (voiced)",
    "image": "reels/2026-10-30_word_borrow.mp4",
    "bufferId": "6ae3bc27b598658e653121c4",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/simple/borrow; example from the dictionary page (trimmed)",
    "dueAtUtc": "2026-10-30T07:00:00Z"
   },
@@ -1213,7 +1213,7 @@
    "topic": "adjective vs adverb",
    "image": "images/2026-10-30/1300_long16_adj_adv.png",
    "bufferId": "6ae3bc2f8d19aa0a5be5b774",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/adjectives-adverbs/adjective-vs-adverb",
    "dueAtUtc": "2026-10-30T11:00:00Z"
   },
@@ -1222,7 +1222,7 @@
    "topic": "first conditional",
    "image": "images/2026-10-30/2000_long17_first_conditional.png",
    "bufferId": "6ae3bc37d62dd708c6db3293",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/conditionals/first-conditional",
    "dueAtUtc": "2026-10-30T18:00:00Z"
   },
@@ -1231,7 +1231,7 @@
    "topic": "quiz: speaks French very well",
    "image": "images/2026-10-30/2200_quiz_very_well.png",
    "bufferId": "6ae3bc398d19aa0a5be5bc23",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app adjective-vs-adverb",
    "dueAtUtc": "2026-10-30T20:00:00Z"
   },
@@ -1240,7 +1240,7 @@
    "topic": "afford (voiced)",
    "image": "reels/2026-10-31_word_afford.mp4",
    "bufferId": "6ae3bc3db598658e6531254d",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/simple/afford; example is mine (adapted)",
    "dueAtUtc": "2026-10-31T07:00:00Z"
   },
@@ -1288,6 +1288,51 @@
    "status": "scheduled",
    "source": "english-grammar.app verb-preposition",
    "dueAtUtc": "2026-11-01T11:00:00Z"
+  },
+  {
+   "key": "2026-11-01T20:00+02:00#long#19#ar",
+   "topic": "can/could/may permission",
+   "image": "images/2026-11-01/2000_long19_can_could_may.png",
+   "bufferId": "6ae5c7091891472093c9a6bd",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/modals/permission-can-may-could",
+   "dueAtUtc": "2026-11-01T18:00:00Z"
+  },
+  {
+   "key": "2026-11-01T22:00+02:00#quiz_can_use#ar",
+   "topic": "quiz: You can use my laptop",
+   "image": "images/2026-11-01/2200_quiz_can_use.png",
+   "bufferId": "6ae5c70ba1145743499d6b34",
+   "status": "scheduled",
+   "source": "english-grammar.app permission-can-may-could (modal + bare verb)",
+   "dueAtUtc": "2026-11-01T20:00:00Z"
+  },
+  {
+   "key": "2026-11-02T09:00+02:00#reel#allow",
+   "topic": "allow (voiced)",
+   "image": "reels/2026-11-02_word_allow.mp4",
+   "bufferId": "6ae5c70eb84259308bcff70a",
+   "status": "scheduled",
+   "source": "merriam-webster.com/simple/allow (IPA, definition, example trimmed)",
+   "dueAtUtc": "2026-11-02T07:00:00Z"
+  },
+  {
+   "key": "2026-11-02T13:00+02:00#long#20#ar",
+   "topic": "tag questions",
+   "image": "images/2026-11-02/1300_long20_tag_questions.png",
+   "bufferId": "6ae5c716a1145743499d6c91",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/questions/tag-questions",
+   "dueAtUtc": "2026-11-02T11:00:00Z"
+  },
+  {
+   "key": "2026-11-02T20:00+02:00#long#21#ar",
+   "topic": "passive voice tenses",
+   "image": "images/2026-11-02/2000_long21_passive.png",
+   "bufferId": "6ae5c71da1145743499d6d86",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/passive-voice/passive-in-different-tenses",
+   "dueAtUtc": "2026-11-02T18:00:00Z"
   }
  ]
 }
