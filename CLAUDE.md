@@ -44,3 +44,6 @@ Queue holds 10: Oct 31 13:00 mistake, 20:00 long18, 22:00 quiz; Nov 1 09:00 Reel
 
 ## Update 2026-11-03
 Queue (10, +02:00): Nov 3 09:00 Reel refuse, 13:00 mistake if-would, 20:00 long22 second conditional, 22:00 quiz were; Nov 4 09:00 Reel explain, 13:00 long23 relative clauses, 20:00 long24 reported statements, 22:00 quiz who; Nov 5 09:00 Reel decide, 13:00 mistake which/who. Nov 2 22:00 quiz slot was missed (created too late). Voiced reel metrics so far: support 269, reliable 477 (+5 reactions), borrow 286, afford 247, avoid 232 impressions; silent reels 0-2. Poppins lacks Arabic glyphs: never put Arabic letters (e.g. "و") in the English subtitle line of a cover. Arabic CTA in Reel not applied (not approved).
+
+## Update 2026-11-03 (dialogues)
+USER APPROVED (2026-11-03) the voiced motion-dialogue format (tools/dialogue.py: two characters Sara af_heart / Adam am_adam, chat bubbles EN + Arabic, 9:16, ~20s). Sample: dialogue_cafe.mp4 (not scheduled; queue full). User also asked about voiced short STORIES in the same style: said yes (narrator + character voices, EN audio, Arabic on screen); sample story not built yet. Dialogue sentences are my own simple ones (no source needed); any grammar/vocab fact still needs a source. Not yet in the daily plan: ask/decide where it replaces a slot.
