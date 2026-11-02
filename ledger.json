@@ -1249,7 +1249,7 @@
    "topic": "fastly -> fast",
    "image": "images/2026-10-31/1300_mistake_fastly.png",
    "bufferId": "6ae3bc3f397c2ef8f347aa45",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app adjective-vs-adverb",
    "dueAtUtc": "2026-10-31T11:00:00Z"
   },
@@ -1258,7 +1258,7 @@
    "topic": "verb + preposition",
    "image": "images/2026-10-31/2000_long18_verb_preposition.png",
    "bufferId": "6ae3bc468d19aa0a5be5beb5",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/prepositions/verb-preposition",
    "dueAtUtc": "2026-10-31T18:00:00Z"
   },
@@ -1267,7 +1267,7 @@
    "topic": "quiz: if it rains tomorrow",
    "image": "images/2026-10-31/2200_quiz_rains.png",
    "bufferId": "6ae3bc49b598658e6531277d",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app first-conditional",
    "dueAtUtc": "2026-10-31T20:00:00Z"
   },
@@ -1276,7 +1276,7 @@
    "topic": "avoid (voiced)",
    "image": "reels/2026-11-01_word_avoid.mp4",
    "bufferId": "6ae3bc4c60532fc2b0d14850",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/dictionary/avoid; example is mine",
    "dueAtUtc": "2026-11-01T07:00:00Z"
   },
@@ -1285,7 +1285,7 @@
    "topic": "rely in -> rely on",
    "image": "images/2026-11-01/1300_mistake_rely_on.png",
    "bufferId": "6ae3bc4eb598658e65312813",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app verb-preposition",
    "dueAtUtc": "2026-11-01T11:00:00Z"
   },
@@ -1294,7 +1294,7 @@
    "topic": "can/could/may permission",
    "image": "images/2026-11-01/2000_long19_can_could_may.png",
    "bufferId": "6ae5c7091891472093c9a6bd",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/modals/permission-can-may-could",
    "dueAtUtc": "2026-11-01T18:00:00Z"
   },
@@ -1303,7 +1303,7 @@
    "topic": "quiz: You can use my laptop",
    "image": "images/2026-11-01/2200_quiz_can_use.png",
    "bufferId": "6ae5c70ba1145743499d6b34",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app permission-can-may-could (modal + bare verb)",
    "dueAtUtc": "2026-11-01T20:00:00Z"
   },
@@ -1312,7 +1312,7 @@
    "topic": "allow (voiced)",
    "image": "reels/2026-11-02_word_allow.mp4",
    "bufferId": "6ae5c70eb84259308bcff70a",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/simple/allow (IPA, definition, example trimmed)",
    "dueAtUtc": "2026-11-02T07:00:00Z"
   },
@@ -1321,7 +1321,7 @@
    "topic": "tag questions",
    "image": "images/2026-11-02/1300_long20_tag_questions.png",
    "bufferId": "6ae5c716a1145743499d6c91",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/questions/tag-questions",
    "dueAtUtc": "2026-11-02T11:00:00Z"
   },
@@ -1330,9 +1330,119 @@
    "topic": "passive voice tenses",
    "image": "images/2026-11-02/2000_long21_passive.png",
    "bufferId": "6ae5c71da1145743499d6d86",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/passive-voice/passive-in-different-tenses",
    "dueAtUtc": "2026-11-02T18:00:00Z"
+  },
+  {
+   "key": "2026-11-03T07:00Z#reel#ar",
+   "slot": "Reel word",
+   "topic": "refuse",
+   "image": "reels/2026-11-03_word_refuse.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91bd84e401f604e50204e",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/refuse",
+   "dueAtUtc": "2026-11-03T07:00:00Z"
+  },
+  {
+   "key": "2026-11-03T11:00Z#mistake#ar",
+   "slot": "Common Mistake",
+   "topic": "if she would have",
+   "image": "images/2026-11-03/1300_mistake_if_would.png",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91bdb4e401f604e5020ca",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/conditionals/second-conditional",
+   "dueAtUtc": "2026-11-03T11:00:00Z"
+  },
+  {
+   "key": "2026-11-03T18:00Z#long#ar",
+   "slot": "Long",
+   "topic": "long22 second conditional",
+   "image": "images/2026-11-03/2000_long22_second_conditional.png",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91bdf9e9bda3b49d594ea",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/conditionals/second-conditional",
+   "dueAtUtc": "2026-11-03T18:00:00Z"
+  },
+  {
+   "key": "2026-11-03T20:00Z#quiz#ar",
+   "slot": "Quiz",
+   "topic": "if I were rich",
+   "image": "images/2026-11-03/2200_quiz_were.png",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91be14e401f604e5022b0",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/conditionals/second-conditional",
+   "dueAtUtc": "2026-11-03T20:00:00Z"
+  },
+  {
+   "key": "2026-11-04T07:00Z#reel#ar",
+   "slot": "Reel word",
+   "topic": "explain",
+   "image": "reels/2026-11-04_word_explain.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91be4b62d192bcc4de1cc",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/explain",
+   "dueAtUtc": "2026-11-04T07:00:00Z"
+  },
+  {
+   "key": "2026-11-04T11:00Z#long#ar",
+   "slot": "Long",
+   "topic": "long23 relative clauses",
+   "image": "images/2026-11-04/1300_long23_relative_clauses.png",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91bea25014d8f321040c2",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/clauses/relative-clauses",
+   "dueAtUtc": "2026-11-04T11:00:00Z"
+  },
+  {
+   "key": "2026-11-04T18:00Z#long#ar",
+   "slot": "Long",
+   "topic": "long24 reported statements",
+   "image": "images/2026-11-04/2000_long24_reported_speech.png",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91bef4e401f604e502558",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/reported-speech/reported-statements",
+   "dueAtUtc": "2026-11-04T18:00:00Z"
+  },
+  {
+   "key": "2026-11-04T20:00Z#quiz#ar",
+   "slot": "Quiz",
+   "topic": "woman who",
+   "image": "images/2026-11-04/2200_quiz_who.png",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91bf19e9bda3b49d599ea",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/clauses/relative-clauses",
+   "dueAtUtc": "2026-11-04T20:00:00Z"
+  },
+  {
+   "key": "2026-11-05T07:00Z#reel#ar",
+   "slot": "Reel word",
+   "topic": "decide",
+   "image": "reels/2026-11-05_word_decide.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91bf4b62d192bcc4de5ca",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/decide",
+   "dueAtUtc": "2026-11-05T07:00:00Z"
+  },
+  {
+   "key": "2026-11-05T11:00Z#mistake#ar",
+   "slot": "Common Mistake",
+   "topic": "woman which",
+   "image": "images/2026-11-05/1300_mistake_which_who.png",
+   "text": "(see Buffer)",
+   "bufferId": "6ae91bf6967eeee46f55af10",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/clauses/relative-clauses",
+   "dueAtUtc": "2026-11-05T11:00:00Z"
   }
  ]
 }
