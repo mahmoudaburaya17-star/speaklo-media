@@ -47,3 +47,10 @@ Queue (10, +02:00): Nov 3 09:00 Reel refuse, 13:00 mistake if-would, 20:00 long2
 
 ## Update 2026-11-03 (dialogues)
 USER APPROVED (2026-11-03) the voiced motion-dialogue format (tools/dialogue.py: two characters Sara af_heart / Adam am_adam, chat bubbles EN + Arabic, 9:16, ~20s). Sample: dialogue_cafe.mp4 (not scheduled; queue full). User also asked about voiced short STORIES in the same style: said yes (narrator + character voices, EN audio, Arabic on screen); sample story not built yet. Dialogue sentences are my own simple ones (no source needed); any grammar/vocab fact still needs a source. Not yet in the daily plan: ask/decide where it replaces a slot.
+
+## PLAN v4 (PROPOSED 2026-11-03, user asked for a plan for both stories and dialogues; applies from Nov 6, queue until Nov 5 stays as is)
+Still 4 posts/day (cap 10 queued). Only the 09:00 video slot rotates; 13:00/20:00/22:00 unchanged (mistake or long / long / quiz).
+09:00 weekly rotation (Cairo): Sat word Reel, Sun dialogue, Mon word, Tue story, Wed dialogue, Thu word, Fri story (3 words, 2 dialogues, 2 stories per week).
+DIALOGUE: ~20s, 6 lines, Sara af_heart / Adam am_adam, tools/dialogue.py, daily-life situations in series (cafe done, airport, hotel, shopping, taxi, doctor, directions, phone call, restaurant, job interview). Caption: title + 3 key phrases with Arabic + "جرب المحادثة دي مع صاحبك واكتبها في الكومنتات". Facts: sentences are my own, simple, natural; any grammar claim needs a source.
+STORY: 45-60s, 8-10 short A2 sentences, narrator + character voices, recurring characters Sara and Adam, scene backgrounds with simple icons in brand colours, EN audio + Arabic on screen, end card with 3 new words (each checked in Merriam-Webster, source in ledger) and a CTA question in comments, NO answers. Tool still to build (tools/story.py).
+MEASURE: after 2 weeks compare impressions/reactions of word vs dialogue vs story Reels (Buffer get_post metrics); keep the better mix. Best-time rationale is my inference, not measured.
