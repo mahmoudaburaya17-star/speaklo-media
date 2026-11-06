@@ -1341,7 +1341,7 @@
    "image": "reels/2026-11-03_word_refuse.mp4",
    "text": "(see Buffer)",
    "bufferId": "6ae91bd84e401f604e50204e",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/dictionary/refuse",
    "dueAtUtc": "2026-11-03T07:00:00Z"
   },
@@ -1352,7 +1352,7 @@
    "image": "images/2026-11-03/1300_mistake_if_would.png",
    "text": "(see Buffer)",
    "bufferId": "6ae91bdb4e401f604e5020ca",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/conditionals/second-conditional",
    "dueAtUtc": "2026-11-03T11:00:00Z"
   },
@@ -1363,7 +1363,7 @@
    "image": "images/2026-11-03/2000_long22_second_conditional.png",
    "text": "(see Buffer)",
    "bufferId": "6ae91bdf9e9bda3b49d594ea",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/conditionals/second-conditional",
    "dueAtUtc": "2026-11-03T18:00:00Z"
   },
@@ -1374,7 +1374,7 @@
    "image": "images/2026-11-03/2200_quiz_were.png",
    "text": "(see Buffer)",
    "bufferId": "6ae91be14e401f604e5022b0",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/conditionals/second-conditional",
    "dueAtUtc": "2026-11-03T20:00:00Z"
   },
@@ -1385,7 +1385,7 @@
    "image": "reels/2026-11-04_word_explain.mp4",
    "text": "(see Buffer)",
    "bufferId": "6ae91be4b62d192bcc4de1cc",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/dictionary/explain",
    "dueAtUtc": "2026-11-04T07:00:00Z"
   },
@@ -1396,7 +1396,7 @@
    "image": "images/2026-11-04/1300_long23_relative_clauses.png",
    "text": "(see Buffer)",
    "bufferId": "6ae91bea25014d8f321040c2",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/clauses/relative-clauses",
    "dueAtUtc": "2026-11-04T11:00:00Z"
   },
@@ -1407,7 +1407,7 @@
    "image": "images/2026-11-04/2000_long24_reported_speech.png",
    "text": "(see Buffer)",
    "bufferId": "6ae91bef4e401f604e502558",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/reported-speech/reported-statements",
    "dueAtUtc": "2026-11-04T18:00:00Z"
   },
@@ -1418,7 +1418,7 @@
    "image": "images/2026-11-04/2200_quiz_who.png",
    "text": "(see Buffer)",
    "bufferId": "6ae91bf19e9bda3b49d599ea",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/clauses/relative-clauses",
    "dueAtUtc": "2026-11-04T20:00:00Z"
   },
@@ -1429,7 +1429,7 @@
    "image": "reels/2026-11-05_word_decide.mp4",
    "text": "(see Buffer)",
    "bufferId": "6ae91bf4b62d192bcc4de5ca",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/dictionary/decide",
    "dueAtUtc": "2026-11-05T07:00:00Z"
   },
@@ -1440,9 +1440,119 @@
    "image": "images/2026-11-05/1300_mistake_which_who.png",
    "text": "(see Buffer)",
    "bufferId": "6ae91bf6967eeee46f55af10",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/clauses/relative-clauses",
    "dueAtUtc": "2026-11-05T11:00:00Z"
+  },
+  {
+   "key": "2026-11-07T07:00Z#reel#ar",
+   "slot": "Reel word",
+   "topic": "invite",
+   "image": "reels/2026-11-07_word_invite.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4c96004e4879a7191c21",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/invite (respelling in-ˈvīt; IPA derived by me; example from MW)",
+   "dueAtUtc": "2026-11-07T07:00:00Z"
+  },
+  {
+   "key": "2026-11-07T11:00Z#mistake#ar",
+   "slot": "Common Mistake",
+   "topic": "if I would have known",
+   "image": "images/2026-11-07/1300_mistake_if_would_have.png",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4c979214322f68b389f3",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/conditionals/third-conditional (sentence is my own illustration of the sourced rule)",
+   "dueAtUtc": "2026-11-07T11:00:00Z"
+  },
+  {
+   "key": "2026-11-07T18:00Z#long#ar",
+   "slot": "Long",
+   "topic": "long25 third conditional",
+   "image": "images/2026-11-07/2000_long25_third_conditional.png",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4c9baf7e526d43e3ec2e",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/conditionals/third-conditional",
+   "dueAtUtc": "2026-11-07T18:00:00Z"
+  },
+  {
+   "key": "2026-11-07T20:00Z#quiz#ar",
+   "slot": "Quiz",
+   "topic": "had left",
+   "image": "images/2026-11-07/2200_quiz_had_left.png",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4c9da7751de7c9ad1c2d",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/conditionals/third-conditional",
+   "dueAtUtc": "2026-11-07T20:00:00Z"
+  },
+  {
+   "key": "2026-11-08T07:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "airport",
+   "image": "reels/2026-11-08_dialogue_airport_24fps.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4cd0d6bbae6fa14c49ff",
+   "status": "scheduled",
+   "source": "own simple sentences (no source needed)",
+   "dueAtUtc": "2026-11-08T07:00:00Z"
+  },
+  {
+   "key": "2026-11-08T11:00Z#mistake#ar",
+   "slot": "Common Mistake",
+   "topic": "didn't used to",
+   "image": "images/2026-11-08/1300_mistake_didnt_use_to.png",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4ca2a7751de7c9ad1cac",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/verb-forms/used-to-would",
+   "dueAtUtc": "2026-11-08T11:00:00Z"
+  },
+  {
+   "key": "2026-11-08T18:00Z#long#ar",
+   "slot": "Long",
+   "topic": "long26 used to / would",
+   "image": "images/2026-11-08/2000_long26_used_to.png",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4ca7229bf05daf10afa4",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/verb-forms/used-to-would",
+   "dueAtUtc": "2026-11-08T18:00:00Z"
+  },
+  {
+   "key": "2026-11-08T20:00Z#quiz#ar",
+   "slot": "Quiz",
+   "topic": "didn't use to",
+   "image": "images/2026-11-08/2200_quiz_use_to.png",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4ca9229bf05daf10b011",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/verb-forms/used-to-would",
+   "dueAtUtc": "2026-11-08T20:00:00Z"
+  },
+  {
+   "key": "2026-11-09T07:00Z#reel#ar",
+   "slot": "Reel word",
+   "topic": "arrange",
+   "image": "reels/2026-11-09_word_arrange.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4cacd6bbae6fa14c4403",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/arrange (respelling ə-ˈrānj; IPA derived by me; example from MW)",
+   "dueAtUtc": "2026-11-09T07:00:00Z"
+  },
+  {
+   "key": "2026-11-09T11:00Z#long#ar",
+   "slot": "Long",
+   "topic": "long27 must/have to/should",
+   "image": "images/2026-11-09/1300_long27_obligation_modals.png",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4cb0229bf05daf10b0a2",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/modals/mixed-modals",
+   "dueAtUtc": "2026-11-09T11:00:00Z"
   }
  ]
 }
