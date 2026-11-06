@@ -1484,9 +1484,10 @@
    "image": "images/2026-11-07/2200_quiz_had_left.png",
    "text": "(see Buffer)",
    "bufferId": "6aee4c9da7751de7c9ad1c2d",
-   "status": "scheduled",
+   "status": "deleted",
    "source": "https://english-grammar.app/learn/conditionals/third-conditional",
-   "dueAtUtc": "2026-11-07T20:00:00Z"
+   "dueAtUtc": "2026-11-07T20:00:00Z",
+   "note": "removed 2026-11-06 by plan v5 (quizzes dropped, replaced by daily dialogue)"
   },
   {
    "key": "2026-11-08T07:00Z#dialogue#ar",
@@ -1528,9 +1529,10 @@
    "image": "images/2026-11-08/2200_quiz_use_to.png",
    "text": "(see Buffer)",
    "bufferId": "6aee4ca9229bf05daf10b011",
-   "status": "scheduled",
+   "status": "deleted",
    "source": "https://english-grammar.app/learn/verb-forms/used-to-would",
-   "dueAtUtc": "2026-11-08T20:00:00Z"
+   "dueAtUtc": "2026-11-08T20:00:00Z",
+   "note": "removed 2026-11-06 by plan v5 (quizzes dropped, replaced by daily dialogue)"
   },
   {
    "key": "2026-11-09T07:00Z#reel#ar",
@@ -1553,6 +1555,28 @@
    "status": "scheduled",
    "source": "https://english-grammar.app/learn/modals/mixed-modals",
    "dueAtUtc": "2026-11-09T11:00:00Z"
+  },
+  {
+   "key": "2026-11-07T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "cafe",
+   "image": "reels/2026-11-07_dialogue_cafe.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4e15229bf05daf1120b1",
+   "status": "scheduled",
+   "source": "own simple sentences (no source needed)",
+   "dueAtUtc": "2026-11-07T20:00:00Z"
+  },
+  {
+   "key": "2026-11-08T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "hotel",
+   "image": "reels/2026-11-08_dialogue_hotel.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6aee4e18a7751de7c9adb196",
+   "status": "scheduled",
+   "source": "own simple sentences (no source needed)",
+   "dueAtUtc": "2026-11-08T20:00:00Z"
   }
  ]
 }
