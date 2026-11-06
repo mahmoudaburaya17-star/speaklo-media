@@ -9,7 +9,7 @@ NAVY=(27,42,78);YEL=(255,201,60);CORAL=(255,107,74);MINT=(46,196,182);CREAM=(255
 FD="/usr/share/fonts/truetype/google-fonts/";G="/home/claude/gen/"
 def LA(s,w="Bold"):return ImageFont.truetype(FD+f"Poppins-{w}.ttf",s)
 def AR(s,w="Medium"):return ImageFont.truetype(G+f"Tajawal-{w}.ttf",s,layout_engine=ImageFont.Layout.RAQM)
-W,H,FPS=1080,1920,20
+W,H,FPS=1080,1920,24
 CH=[dict(name="Sara",voice="af_heart",col=CORAL,txt=CREAM),dict(name="Adam",voice="am_adam",col=MINT,txt=NAVY)]
 def wrap(d,t,f,mw):
     out=[];cur=""
