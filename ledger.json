@@ -1451,7 +1451,7 @@
    "image": "reels/2026-11-07_word_invite.mp4",
    "text": "(see Buffer)",
    "bufferId": "6aee4c96004e4879a7191c21",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/dictionary/invite (respelling in-ˈvīt; IPA derived by me; example from MW)",
    "dueAtUtc": "2026-11-07T07:00:00Z"
   },
@@ -1462,7 +1462,7 @@
    "image": "images/2026-11-07/1300_mistake_if_would_have.png",
    "text": "(see Buffer)",
    "bufferId": "6aee4c979214322f68b389f3",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/conditionals/third-conditional (sentence is my own illustration of the sourced rule)",
    "dueAtUtc": "2026-11-07T11:00:00Z"
   },
@@ -1577,6 +1577,28 @@
    "status": "scheduled",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-08T20:00:00Z"
+  },
+  {
+   "key": "2026-11-09T18:00Z#long#ar",
+   "slot": "Long",
+   "topic": "long28 wish / if only",
+   "image": "images/2026-11-09/2000_long28_wish_if_only.png",
+   "text": "(see Buffer)",
+   "bufferId": "6aef63c8004e4879a76eaea0",
+   "status": "scheduled",
+   "source": "https://english-grammar.app/learn/conditionals/wish-if-only",
+   "dueAtUtc": "2026-11-09T18:00:00Z"
+  },
+  {
+   "key": "2026-11-09T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "shopping",
+   "image": "reels/2026-11-09_dialogue_shopping.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6aef63cbd6bbae6fa1a0555f",
+   "status": "scheduled",
+   "source": "own simple sentences (no source needed)",
+   "dueAtUtc": "2026-11-09T20:00:00Z"
   }
  ]
 }
