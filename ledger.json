@@ -1731,6 +1731,72 @@
    "status": "scheduled",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-12T20:00:00Z"
+  },
+  {
+   "key": "2026-11-13T07:00Z#story#ar",
+   "slot": "Story",
+   "topic": "story broken phone",
+   "image": "reels/2026-11-13_story_broken_phone.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af4d290ea20f5e010e414af",
+   "status": "scheduled",
+   "source": "Merriam-Webster: repair (to restore by replacing a part or putting together what is torn or broken), customer (one that purchases a commodity or service), replace sense 3 (put something new in the place of something else). Story sentences are my own simple ones.",
+   "dueAtUtc": "2026-11-13T07:00:00Z"
+  },
+  {
+   "key": "2026-11-13T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "walked vs was walking",
+   "image": "images/2026-11-13/1300_mistake_walked_was_walking.png",
+   "text": "(see Buffer)",
+   "bufferId": "6af4d2933f78b0223bc6d103",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/tenses/narrative-tenses",
+   "dueAtUtc": "2026-11-13T11:00:00Z"
+  },
+  {
+   "key": "2026-11-13T18:00Z#long33#ar",
+   "slot": "Long",
+   "topic": "long33 narrative tenses",
+   "image": "images/2026-11-13/2000_long33_narrative_tenses.png",
+   "text": "(see Buffer)",
+   "bufferId": "6af4d2982b84624b714e88b7",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/tenses/narrative-tenses",
+   "dueAtUtc": "2026-11-13T18:00:00Z"
+  },
+  {
+   "key": "2026-11-13T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "phone call",
+   "image": "reels/2026-11-13_dialogue_phone_call.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af4d29b3f78b0223bc6d26a",
+   "status": "scheduled",
+   "source": "own simple sentences (no source needed)",
+   "dueAtUtc": "2026-11-13T20:00:00Z"
+  },
+  {
+   "key": "2026-11-14T07:00Z#word#ar",
+   "slot": "Word Reel",
+   "topic": "improve",
+   "image": "reels/2026-11-14_word_improve.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af4d29e2b84624b714e89d3",
+   "status": "scheduled",
+   "source": "Merriam-Webster: improve (to enhance in value or quality : make better); IPA derived by me from MW respelling im-ˈprüv; example sentence is my own",
+   "dueAtUtc": "2026-11-14T07:00:00Z"
+  },
+  {
+   "key": "2026-11-14T11:00Z#long34#ar",
+   "slot": "Long",
+   "topic": "long34 reported commands",
+   "image": "images/2026-11-14/1300_long34_reported_commands.png",
+   "text": "(see Buffer)",
+   "bufferId": "6af4d2a438da815779d269e5",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/reported-speech/reported-commands-requests",
+   "dueAtUtc": "2026-11-14T11:00:00Z"
   }
  ]
 }
