@@ -1607,7 +1607,7 @@
    "image": "reels/2026-11-10_story_lost_wallet.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af2302f45545bfaf07d2186",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Merriam-Webster: wallet, honest, reward (respelling only; IPA n/a). Story sentences are my own simple ones.",
    "dueAtUtc": "2026-11-10T07:00:00Z"
   },
@@ -1618,7 +1618,7 @@
    "image": "images/2026-11-10/1300_mistake_although_but.png",
    "text": "(see Buffer)",
    "bufferId": "6af23031f931818db2df0a60",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/connectors/conjunctions",
    "dueAtUtc": "2026-11-10T11:00:00Z"
   },
@@ -1629,7 +1629,7 @@
    "image": "images/2026-11-10/2000_long29_past_modals.png",
    "text": "(see Buffer)",
    "bufferId": "6af2303645545bfaf07d22f6",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/modals/past-modals",
    "dueAtUtc": "2026-11-10T18:00:00Z"
   },
@@ -1640,7 +1640,7 @@
    "image": "reels/2026-11-10_dialogue_taxi.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af230396e772a59941e47c1",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-10T20:00:00Z"
   },
@@ -1651,7 +1651,7 @@
    "image": "reels/2026-11-11_word_notice.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af2303c6e772a59941e48af",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Merriam-Webster: notice (definition + example); IPA derived by me from MW respelling",
    "dueAtUtc": "2026-11-11T07:00:00Z"
   },
@@ -1662,7 +1662,7 @@
    "image": "images/2026-11-11/1300_mistake_by_the_time.png",
    "text": "(see Buffer)",
    "bufferId": "6af2303efa912548ccda5798",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/tenses/past-perfect",
    "dueAtUtc": "2026-11-11T11:00:00Z"
   },
@@ -1673,7 +1673,7 @@
    "image": "images/2026-11-11/2000_long30_conjunctions.png",
    "text": "(see Buffer)",
    "bufferId": "6af2304345545bfaf07d2686",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/connectors/conjunctions",
    "dueAtUtc": "2026-11-11T18:00:00Z"
   },
@@ -1684,7 +1684,7 @@
    "image": "reels/2026-11-11_dialogue_doctor.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af23046f931818db2df1081",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-11T20:00:00Z"
   },
@@ -1709,6 +1709,28 @@
    "status": "scheduled",
    "source": "english-grammar.app/learn/tenses/past-perfect",
    "dueAtUtc": "2026-11-12T11:00:00Z"
+  },
+  {
+   "key": "2026-11-12T18:00Z#long32#ar",
+   "slot": "Long",
+   "topic": "long32 reported questions",
+   "image": "images/2026-11-12/2000_long32_reported_questions.png",
+   "text": "(see Buffer)",
+   "bufferId": "6af4d1902b84624b714e3bd5",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/reported-speech/reported-questions",
+   "dueAtUtc": "2026-11-12T18:00:00Z"
+  },
+  {
+   "key": "2026-11-12T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "directions",
+   "image": "reels/2026-11-12_dialogue_directions.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af4d193ea20f5e010e3cb3e",
+   "status": "scheduled",
+   "source": "own simple sentences (no source needed)",
+   "dueAtUtc": "2026-11-12T20:00:00Z"
   }
  ]
 }
