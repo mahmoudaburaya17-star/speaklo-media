@@ -1779,12 +1779,12 @@
   {
    "key": "2026-11-14T07:00Z#word#ar",
    "slot": "Word Reel",
-   "topic": "improve",
-   "image": "reels/2026-11-14_word_improve.mp4",
+   "topic": "achieve",
+   "image": "reels/2026-11-14_word_achieve.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af4d29e2b84624b714e89d3",
    "status": "scheduled",
-   "source": "Merriam-Webster: improve (to enhance in value or quality : make better); IPA derived by me from MW respelling im-ˈprüv; example sentence is my own",
+   "source": "Merriam-Webster: achieve (to succeed at reaching or accomplishing (a goal, result, etc.) especially through effort); IPA derived by me from MW respelling ə-ˈchēv; example sentence is my own. Replaced 'improve' (already posted 2026-10-21).",
    "dueAtUtc": "2026-11-14T07:00:00Z"
   },
   {
@@ -1797,6 +1797,50 @@
    "status": "scheduled",
    "source": "english-grammar.app/learn/reported-speech/reported-commands-requests",
    "dueAtUtc": "2026-11-14T11:00:00Z"
+  },
+  {
+   "key": "2026-11-14T18:00Z#long35#ar",
+   "slot": "Long",
+   "topic": "long35 mixed conditionals",
+   "image": "images/2026-11-14/2000_long35_mixed_conditionals.png",
+   "text": "(see Buffer)",
+   "bufferId": "6af6570eba218f32636a6c3b",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/conditionals/mixed-conditionals",
+   "dueAtUtc": "2026-11-14T18:00:00Z"
+  },
+  {
+   "key": "2026-11-14T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "restaurant",
+   "image": "reels/2026-11-14_dialogue_restaurant.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af65711fb90ccefdd0b4aaf",
+   "status": "scheduled",
+   "source": "own simple sentences (no source needed)",
+   "dueAtUtc": "2026-11-14T20:00:00Z"
+  },
+  {
+   "key": "2026-11-15T07:00Z#word#ar",
+   "slot": "Word Reel",
+   "topic": "expect",
+   "image": "reels/2026-11-15_word_expect.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af65714fb90ccefdd0b4cd5",
+   "status": "scheduled",
+   "source": "Merriam-Webster: expect (to consider probable or certain); IPA derived by me from MW respelling ik-ˈspekt; example sentence is my own. Replaced 'recommend' (already posted 2026-10-22).",
+   "dueAtUtc": "2026-11-15T07:00:00Z"
+  },
+  {
+   "key": "2026-11-15T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "mixed conditional: would be now",
+   "image": "images/2026-11-15/1300_mistake_mixed_have_now.png",
+   "text": "(see Buffer)",
+   "bufferId": "6af65716c1a0010a5bea1a46",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/conditionals/mixed-conditionals",
+   "dueAtUtc": "2026-11-15T11:00:00Z"
   }
  ]
 }
