@@ -1695,7 +1695,7 @@
    "image": "reels/2026-11-12_word_manage.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af23049fa912548ccda5a11",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Merriam-Webster: manage (definition + example); IPA derived by me from MW respelling",
    "dueAtUtc": "2026-11-12T07:00:00Z"
   },
@@ -1706,7 +1706,7 @@
    "image": "images/2026-11-12/1300_long31_past_perfect.png",
    "text": "(see Buffer)",
    "bufferId": "6af2304df931818db2df12b4",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/tenses/past-perfect",
    "dueAtUtc": "2026-11-12T11:00:00Z"
   },
@@ -1717,7 +1717,7 @@
    "image": "images/2026-11-12/2000_long32_reported_questions.png",
    "text": "(see Buffer)",
    "bufferId": "6af4d1902b84624b714e3bd5",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/reported-speech/reported-questions",
    "dueAtUtc": "2026-11-12T18:00:00Z"
   },
@@ -1728,7 +1728,7 @@
    "image": "reels/2026-11-12_dialogue_directions.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af4d193ea20f5e010e3cb3e",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-12T20:00:00Z"
   },
