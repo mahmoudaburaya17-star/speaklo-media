@@ -21,3 +21,4 @@
 4. Hook A/B: store `hook` text in ledger, compare impressions per hook style after 2 weeks.
 5. Arabic captions burned in as karaoke (Arabic meaning timed with the English).
 6. User voice recording (Egyptian Arabic intro 3-5 s) if the user provides it.
+- 2026-11-14: word2.py + dialogue2.py ported to fx kit (hook, karaoke, SFX, loudnorm); Arabic hook + light CTA applied; IPA in DejaVu Sans.

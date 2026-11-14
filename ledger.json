@@ -1473,7 +1473,7 @@
    "image": "images/2026-11-07/2000_long25_third_conditional.png",
    "text": "(see Buffer)",
    "bufferId": "6aee4c9baf7e526d43e3ec2e",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/conditionals/third-conditional",
    "dueAtUtc": "2026-11-07T18:00:00Z"
   },
@@ -1496,7 +1496,7 @@
    "image": "reels/2026-11-08_dialogue_airport_24fps.mp4",
    "text": "(see Buffer)",
    "bufferId": "6aee4cd0d6bbae6fa14c49ff",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-08T07:00:00Z"
   },
@@ -1507,7 +1507,7 @@
    "image": "images/2026-11-08/1300_mistake_didnt_use_to.png",
    "text": "(see Buffer)",
    "bufferId": "6aee4ca2a7751de7c9ad1cac",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/verb-forms/used-to-would",
    "dueAtUtc": "2026-11-08T11:00:00Z"
   },
@@ -1518,7 +1518,7 @@
    "image": "images/2026-11-08/2000_long26_used_to.png",
    "text": "(see Buffer)",
    "bufferId": "6aee4ca7229bf05daf10afa4",
-   "status": "scheduled",
+   "status": "sent",
    "source": "https://english-grammar.app/learn/verb-forms/used-to-would",
    "dueAtUtc": "2026-11-08T18:00:00Z"
   },
@@ -1563,7 +1563,7 @@
    "image": "reels/2026-11-07_dialogue_cafe.mp4",
    "text": "(see Buffer)",
    "bufferId": "6aee4e15229bf05daf1120b1",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-07T20:00:00Z"
   },
@@ -1574,7 +1574,7 @@
    "image": "reels/2026-11-08_dialogue_hotel.mp4",
    "text": "(see Buffer)",
    "bufferId": "6aee4e18a7751de7c9adb196",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-08T20:00:00Z"
   },
@@ -1739,7 +1739,7 @@
    "image": "reels/2026-11-13_story_broken_phone.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af4d290ea20f5e010e414af",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Merriam-Webster: repair (to restore by replacing a part or putting together what is torn or broken), customer (one that purchases a commodity or service), replace sense 3 (put something new in the place of something else). Story sentences are my own simple ones.",
    "dueAtUtc": "2026-11-13T07:00:00Z"
   },
@@ -1750,7 +1750,7 @@
    "image": "images/2026-11-13/1300_mistake_walked_was_walking.png",
    "text": "(see Buffer)",
    "bufferId": "6af4d2933f78b0223bc6d103",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/tenses/narrative-tenses",
    "dueAtUtc": "2026-11-13T11:00:00Z"
   },
@@ -1761,7 +1761,7 @@
    "image": "images/2026-11-13/2000_long33_narrative_tenses.png",
    "text": "(see Buffer)",
    "bufferId": "6af4d2982b84624b714e88b7",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/tenses/narrative-tenses",
    "dueAtUtc": "2026-11-13T18:00:00Z"
   },
@@ -1772,7 +1772,7 @@
    "image": "reels/2026-11-13_dialogue_phone_call.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af4d29b3f78b0223bc6d26a",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-13T20:00:00Z"
   },
@@ -1783,7 +1783,7 @@
    "image": "reels/2026-11-14_word_achieve.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af4d29e2b84624b714e89d3",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Merriam-Webster: achieve (to succeed at reaching or accomplishing (a goal, result, etc.) especially through effort); IPA derived by me from MW respelling ə-ˈchēv; example sentence is my own. Replaced 'improve' (already posted 2026-10-21).",
    "dueAtUtc": "2026-11-14T07:00:00Z"
   },
@@ -1794,7 +1794,7 @@
    "image": "images/2026-11-14/1300_long34_reported_commands.png",
    "text": "(see Buffer)",
    "bufferId": "6af4d2a438da815779d269e5",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/reported-speech/reported-commands-requests",
    "dueAtUtc": "2026-11-14T11:00:00Z"
   },
@@ -1841,6 +1841,50 @@
    "status": "scheduled",
    "source": "english-grammar.app/learn/conditionals/mixed-conditionals",
    "dueAtUtc": "2026-11-15T11:00:00Z"
+  },
+  {
+   "key": "2026-11-15T18:00Z#lesson#ar",
+   "slot": "Lesson Reel",
+   "topic": "prepositions of place at/in/on",
+   "image": "reels/2026-11-15_lesson_prepositions_place.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af87994e5a113497a8e0fec",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/prepositions/prepositions-of-place",
+   "dueAtUtc": "2026-11-15T18:00Z:00Z"
+  },
+  {
+   "key": "2026-11-15T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "job interview",
+   "image": "reels/2026-11-15_dialogue_job_interview.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af8799776c23bf1c721f366",
+   "status": "scheduled",
+   "source": "own simple sentences",
+   "dueAtUtc": "2026-11-15T20:00Z:00Z"
+  },
+  {
+   "key": "2026-11-16T07:00Z#word#ar",
+   "slot": "Word Reel",
+   "topic": "join",
+   "image": "reels/2026-11-16_word_join_v2.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6af8799a918fe79d2e878edb",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/join (IPA derived)",
+   "dueAtUtc": "2026-11-16T07:00Z:00Z"
+  },
+  {
+   "key": "2026-11-16T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "on the corner vs in the corner",
+   "image": "images/2026-11-16/1300_mistake_on_the_corner.png",
+   "text": "(see Buffer)",
+   "bufferId": "6af8799cb9a106584c510fc9",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/prepositions/prepositions-of-place",
+   "dueAtUtc": "2026-11-16T11:00Z:00Z"
   }
  ]
 }
