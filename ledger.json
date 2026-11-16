@@ -1805,7 +1805,7 @@
    "image": "images/2026-11-14/2000_long35_mixed_conditionals.png",
    "text": "(see Buffer)",
    "bufferId": "6af6570eba218f32636a6c3b",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/conditionals/mixed-conditionals",
    "dueAtUtc": "2026-11-14T18:00:00Z"
   },
@@ -1816,7 +1816,7 @@
    "image": "reels/2026-11-14_dialogue_restaurant.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af65711fb90ccefdd0b4aaf",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences (no source needed)",
    "dueAtUtc": "2026-11-14T20:00:00Z"
   },
@@ -1827,7 +1827,7 @@
    "image": "reels/2026-11-15_word_expect.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af65714fb90ccefdd0b4cd5",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Merriam-Webster: expect (to consider probable or certain); IPA derived by me from MW respelling ik-ˈspekt; example sentence is my own. Replaced 'recommend' (already posted 2026-10-22).",
    "dueAtUtc": "2026-11-15T07:00:00Z"
   },
@@ -1838,7 +1838,7 @@
    "image": "images/2026-11-15/1300_mistake_mixed_have_now.png",
    "text": "(see Buffer)",
    "bufferId": "6af65716c1a0010a5bea1a46",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/conditionals/mixed-conditionals",
    "dueAtUtc": "2026-11-15T11:00:00Z"
   },
@@ -1849,7 +1849,7 @@
    "image": "reels/2026-11-15_lesson_prepositions_place.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af87994e5a113497a8e0fec",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/prepositions/prepositions-of-place",
    "dueAtUtc": "2026-11-15T18:00Z:00Z"
   },
@@ -1860,7 +1860,7 @@
    "image": "reels/2026-11-15_dialogue_job_interview.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af8799776c23bf1c721f366",
-   "status": "scheduled",
+   "status": "sent",
    "source": "own simple sentences",
    "dueAtUtc": "2026-11-15T20:00Z:00Z"
   },
@@ -1871,7 +1871,7 @@
    "image": "reels/2026-11-16_word_join_v2.mp4",
    "text": "(see Buffer)",
    "bufferId": "6af8799a918fe79d2e878edb",
-   "status": "scheduled",
+   "status": "sent",
    "source": "merriam-webster.com/dictionary/join (IPA derived)",
    "dueAtUtc": "2026-11-16T07:00Z:00Z"
   },
@@ -1882,7 +1882,7 @@
    "image": "images/2026-11-16/1300_mistake_on_the_corner.png",
    "text": "(see Buffer)",
    "bufferId": "6af8799cb9a106584c510fc9",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/prepositions/prepositions-of-place",
    "dueAtUtc": "2026-11-16T11:00Z:00Z"
   }

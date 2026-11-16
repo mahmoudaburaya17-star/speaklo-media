@@ -54,6 +54,6 @@ def mix(total,voices,sfx,path):
         i=int(s*SR);a[i:i+len(x)]+=x*0.6
     with wave.open(path,"wb") as o:o.setnchannels(1);o.setsampwidth(2);o.setframerate(SR);o.writeframes((np.clip(a,-1,1)*32767).astype(np.int16).tobytes())
 def encode(total,frame_fn,wav,out):
-    p=subprocess.Popen(["ffmpeg","-y","-loglevel","error","-f","rawvideo","-pix_fmt","rgb24","-s",f"{W}x{H}","-r",str(FPS),"-i","-","-i",wav,"-c:v","libx264","-pix_fmt","yuv420p","-preset","fast","-crf","19","-c:a","aac","-b:a","160k","-af","loudnorm=I=-16:TP=-1.5:LRA=11","-t",f"{total:.2f}","-movflags","+faststart",out],stdin=subprocess.PIPE)
+    p=subprocess.Popen(["ffmpeg","-y","-loglevel","error","-f","rawvideo","-pix_fmt","rgb24","-s",f"{W}x{H}","-r",str(FPS),"-i","-","-i",wav,"-c:v","libx264","-pix_fmt","yuv420p","-preset","fast","-crf","19","-c:a","aac","-b:a","160k","-af","loudnorm=I=-16:TP=-2:LRA=11,alimiter=limit=0.85:level=disabled","-t",f"{total:.2f}","-movflags","+faststart",out],stdin=subprocess.PIPE)
     for fr in range(int(total*FPS)):p.stdin.write(frame_fn(fr/FPS).tobytes())
     p.stdin.close();p.wait()
