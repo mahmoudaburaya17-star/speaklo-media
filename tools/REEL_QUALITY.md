@@ -22,3 +22,4 @@
 5. Arabic captions burned in as karaoke (Arabic meaning timed with the English).
 6. User voice recording (Egyptian Arabic intro 3-5 s) if the user provides it.
 - 2026-11-14: word2.py + dialogue2.py ported to fx kit (hook, karaoke, SFX, loudnorm); Arabic hook + light CTA applied; IPA in DejaVu Sans.
+- 2026-11-16: story2.py (story ported to fx kit: hook, karaoke, pop-in cards, slow zoom, word cards, light CTA); fx.encode limiter.

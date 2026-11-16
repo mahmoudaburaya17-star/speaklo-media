@@ -1885,6 +1885,116 @@
    "status": "sent",
    "source": "english-grammar.app/learn/prepositions/prepositions-of-place",
    "dueAtUtc": "2026-11-16T11:00Z:00Z"
+  },
+  {
+   "key": "2026-11-17T07:00Z#story#ar",
+   "slot": "Story",
+   "topic": "story late train",
+   "image": "reels/2026-11-17_story_late_train_v2.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d143bdd67de9b04096e",
+   "status": "scheduled",
+   "source": "Merriam-Webster ticket/platform/delay",
+   "dueAtUtc": "2026-11-17T07:00Z:00Z"
+  },
+  {
+   "key": "2026-11-17T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "enough tall -> tall enough",
+   "image": "images/2026-11-17/1300_mistake_enough_tall.png",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d16e0a75dc58cf437de",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/determiners/enough-too",
+   "dueAtUtc": "2026-11-17T11:00Z:00Z"
+  },
+  {
+   "key": "2026-11-17T18:00Z#lesson#ar",
+   "slot": "Lesson Reel",
+   "topic": "too/enough",
+   "image": "reels/2026-11-17_lesson_too_enough.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d1ae0a75dc58cf43c47",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/determiners/enough-too",
+   "dueAtUtc": "2026-11-17T18:00Z:00Z"
+  },
+  {
+   "key": "2026-11-17T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "bank",
+   "image": "reels/2026-11-17_dialogue_bank.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d1d3bdd67de9b040f39",
+   "status": "scheduled",
+   "source": "own simple sentences",
+   "dueAtUtc": "2026-11-17T20:00Z:00Z"
+  },
+  {
+   "key": "2026-11-18T07:00Z#word#ar",
+   "slot": "Word Reel",
+   "topic": "share",
+   "image": "reels/2026-11-18_word_share.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d20e0a75dc58cf43e6d",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/share (IPA derived from respelling)",
+   "dueAtUtc": "2026-11-18T07:00Z:00Z"
+  },
+  {
+   "key": "2026-11-18T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "too much chairs -> too many chairs",
+   "image": "images/2026-11-18/1300_mistake_too_many_chairs.png",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d2246180f25aa691b0e",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/determiners/enough-too",
+   "dueAtUtc": "2026-11-18T11:00Z:00Z"
+  },
+  {
+   "key": "2026-11-18T18:00Z#long36#ar",
+   "slot": "Long",
+   "topic": "long36 so/such",
+   "image": "images/2026-11-18/2000_long36_so_such.png",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d2847aa910b6e2c84e4",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/connectors/so-such",
+   "dueAtUtc": "2026-11-18T18:00Z:00Z"
+  },
+  {
+   "key": "2026-11-18T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "pharmacy",
+   "image": "reels/2026-11-18_dialogue_pharmacy_b.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d2ba72a48ff3c6aa98e",
+   "status": "scheduled",
+   "source": "own simple sentences",
+   "dueAtUtc": "2026-11-18T20:00Z:00Z"
+  },
+  {
+   "key": "2026-11-19T07:00Z#word#ar",
+   "slot": "Word Reel",
+   "topic": "lend",
+   "image": "reels/2026-11-19_word_lend_b.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d2ee0a75dc58cf444b6",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/lend (IPA derived)",
+   "dueAtUtc": "2026-11-19T07:00Z:00Z"
+  },
+  {
+   "key": "2026-11-19T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "such many -> so many",
+   "image": "images/2026-11-19/1300_mistake_so_many_people.png",
+   "text": "(see Buffer)",
+   "bufferId": "6afb7d2f7071096d2a95c0a2",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/connectors/so-such",
+   "dueAtUtc": "2026-11-19T11:00Z:00Z"
   }
  ]
 }
