@@ -1893,7 +1893,7 @@
    "image": "reels/2026-11-17_story_late_train_v2.mp4",
    "text": "(see Buffer)",
    "bufferId": "6afb7d143bdd67de9b04096e",
-   "status": "scheduled",
+   "status": "sent",
    "source": "Merriam-Webster ticket/platform/delay",
    "dueAtUtc": "2026-11-17T07:00Z:00Z"
   },
@@ -1904,7 +1904,7 @@
    "image": "images/2026-11-17/1300_mistake_enough_tall.png",
    "text": "(see Buffer)",
    "bufferId": "6afb7d16e0a75dc58cf437de",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/determiners/enough-too",
    "dueAtUtc": "2026-11-17T11:00Z:00Z"
   },
@@ -1915,7 +1915,7 @@
    "image": "reels/2026-11-17_lesson_too_enough.mp4",
    "text": "(see Buffer)",
    "bufferId": "6afb7d1ae0a75dc58cf43c47",
-   "status": "scheduled",
+   "status": "sent",
    "source": "english-grammar.app/learn/determiners/enough-too",
    "dueAtUtc": "2026-11-17T18:00Z:00Z"
   },
@@ -1995,6 +1995,39 @@
    "status": "scheduled",
    "source": "english-grammar.app/learn/connectors/so-such",
    "dueAtUtc": "2026-11-19T11:00Z:00Z"
+  },
+  {
+   "key": "2026-11-19T18:00Z#lesson#ar",
+   "slot": "Lesson Reel",
+   "topic": "superlatives",
+   "image": "reels/2026-11-19_lesson_superlatives.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afcb01bc595016b82b217f7",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/adjectives-adverbs/comparatives-superlatives",
+   "dueAtUtc": "2026-11-19T18:00Z:00Z"
+  },
+  {
+   "key": "2026-11-19T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "supermarket",
+   "image": "reels/2026-11-19_dialogue_supermarket.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afcb01dad43efddcc5578f5",
+   "status": "scheduled",
+   "source": "own simple sentences",
+   "dueAtUtc": "2026-11-19T20:00Z:00Z"
+  },
+  {
+   "key": "2026-11-20T07:00Z#story#ar",
+   "slot": "Story",
+   "topic": "story birthday cake",
+   "image": "reels/2026-11-20_story_birthday_cake.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afcb02041283412cdcd914f",
+   "status": "scheduled",
+   "source": "Merriam-Webster bake/candle/celebrate",
+   "dueAtUtc": "2026-11-20T07:00Z:00Z"
   }
  ]
 }
