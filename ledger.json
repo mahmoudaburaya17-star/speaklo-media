@@ -2028,6 +2028,61 @@
    "status": "scheduled",
    "source": "Merriam-Webster bake/candle/celebrate",
    "dueAtUtc": "2026-11-20T07:00Z:00Z"
+  },
+  {
+   "key": "2026-11-20T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "mistake: had my car repair -> repaired",
+   "image": "images/2026-11-20/1300_mistake_had_car_repaired.png",
+   "text": "(see Buffer)",
+   "bufferId": "6afe0c3e1173b0b5f0e3308d",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/passive-voice/causatives-have-get",
+   "dueAtUtc": "2026-11-20T11:00Z"
+  },
+  {
+   "key": "2026-11-20T18:00Z#long#ar",
+   "slot": "Long",
+   "topic": "long37 causative have/get",
+   "image": "images/2026-11-20/2000_long37_causative_have_get.png",
+   "text": "(see Buffer)",
+   "bufferId": "6afe0c3f1173b0b5f0e33100",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/passive-voice/causatives-have-get",
+   "dueAtUtc": "2026-11-20T18:00Z"
+  },
+  {
+   "key": "2026-11-21T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "mistake: made him to leave -> made him leave",
+   "image": "images/2026-11-21/1300_mistake_made_him_leave.png",
+   "text": "(see Buffer)",
+   "bufferId": "6afe0c4024f63f6d4cb3cd2d",
+   "status": "scheduled",
+   "source": "english-grammar.app/learn/passive-voice/causatives-have-get",
+   "dueAtUtc": "2026-11-21T11:00Z"
+  },
+  {
+   "key": "2026-11-20T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "train station",
+   "image": "reels/2026-11-20_dialogue_train.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afe0cba14a4c3f4333f1c71",
+   "status": "scheduled",
+   "source": "own simple sentences",
+   "dueAtUtc": "2026-11-20T20:00Z"
+  },
+  {
+   "key": "2026-11-21T07:00Z#word#ar",
+   "slot": "Word Reel",
+   "topic": "offer",
+   "image": "reels/2026-11-21_word_offer.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6afe0cbd0fd3f6beff50b0d4",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/offer sense 2 'to present for acceptance or rejection' (IPA derived from respelling ˈȯ-fər)",
+   "dueAtUtc": "2026-11-21T07:00Z"
   }
  ]
 }
