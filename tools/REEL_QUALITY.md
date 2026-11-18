@@ -23,3 +23,4 @@
 6. User voice recording (Egyptian Arabic intro 3-5 s) if the user provides it.
 - 2026-11-14: word2.py + dialogue2.py ported to fx kit (hook, karaoke, SFX, loudnorm); Arabic hook + light CTA applied; IPA in DejaVu Sans.
 - 2026-11-16: story2.py (story ported to fx kit: hook, karaoke, pop-in cards, slow zoom, word cards, light CTA); fx.encode limiter.
+- 2026-11-18: dialogue2 bubble entrance now overshoots (ease_out_back) instead of a plain slide; train dialogue -17.2 LUFS / peak -1.7 dBFS, offer word reel -16.4 LUFS / peak -2.0 dBFS (both 24 fps, frames checked).

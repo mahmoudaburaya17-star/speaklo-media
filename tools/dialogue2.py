@@ -42,7 +42,7 @@ def make(title,sub,hook_ar,hook_voice,lines,cta_lines,cta_voice,out,tmp="/tmp/di
                 r=62*(1+(0.07*math.sin(T*14) if act==sp else 0));cy=520
                 if act==sp:d.ellipse((cx-r-10,cy-r-10,cx+r+10,cy+r+10),outline=YEL,width=6)
                 d.ellipse((cx-r,cy-r,cx+r,cy+r),fill=BC[sp]);d.text((cx,cy),NM[sp][0],font=LA(64),fill=NAVY if sp==1 else CREAM,anchor="mm");d.text((cx,cy+92),NM[sp],font=LA(28),fill=CREAM,anchor="mm")
-            ease=ease_out_cubic(lt/0.35)
+            ease=ease_out_back(lt/0.45)
             for k in range(max(0,a-2),a+1):
                 slot=2-(a-k)+(1-ease)*(1 if k<a else 0);y=700+int(slot*(BH+24))+(int((1-ease)*100) if k==a else 0)
                 spr=bubble(B[k],T,k==a);al=1.0 if k==a else (0.55 if True else 1)
