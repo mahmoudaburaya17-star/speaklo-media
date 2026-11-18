@@ -1,5 +1,5 @@
 {
- "channel": "YouTube (not connected yet)",
+ "channel": "YouTube Speaklo (Buffer channel 6afcb9cbece6dfde5ffdef17), connected 2026-11-18",
  "timezone": "Africa/Cairo",
  "note": "Separate from ledger.json. Check Buffer + this ledger before scheduling. Fill dueAt/bufferId on schedule. Missing series to build: mistakes, phrasal verbs, pronunciation, weekly review.",
  "items": [
@@ -15,9 +15,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d4b9745ed16f27c8d61",
+   "status": "scheduled",
+   "dueAt": "2026-11-21T10:00Z"
   },
   {
    "key": "yt#reels/2026-11-17_dialogue_bank.mp4",
@@ -31,9 +31,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d4df5888642f69d0fdd",
+   "status": "scheduled",
+   "dueAt": "2026-11-21T17:00Z"
   },
   {
    "key": "yt#reels/2026-11-17_lesson_too_enough.mp4",
@@ -47,9 +47,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d53cabb10e79add688d",
+   "status": "scheduled",
+   "dueAt": "2026-11-22T17:00Z"
   },
   {
    "key": "yt#reels/2026-11-19_word_lend_b.mp4",
@@ -63,9 +63,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d5614a4c3f4333f58e8",
+   "status": "scheduled",
+   "dueAt": "2026-11-23T10:00Z"
   },
   {
    "key": "yt#reels/2026-11-19_lesson_superlatives.mp4",
@@ -79,9 +79,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d5923b3a6937eae6ee4",
+   "status": "scheduled",
+   "dueAt": "2026-11-23T17:00Z"
   },
   {
    "key": "yt#reels/2026-11-17_story_late_train_v2.mp4",
@@ -111,9 +111,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d3e23b3a6937eae64c3",
+   "status": "scheduled",
+   "dueAt": "2026-11-20T17:00Z"
   },
   {
    "key": "yt#reels/2026-11-16_word_join_v2.mp4",
@@ -127,9 +127,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d37f5888642f69d096d",
+   "status": "scheduled",
+   "dueAt": "2026-11-19T10:00Z"
   },
   {
    "key": "yt#reels/2026-11-15_lesson_prepositions_place.mp4",
@@ -143,9 +143,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d39f5888642f69d0a1a",
+   "status": "scheduled",
+   "dueAt": "2026-11-19T17:00Z"
   },
   {
    "key": "yt#reels/2026-11-20_story_birthday_cake.mp4",
@@ -159,9 +159,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d3bf5888642f69d0a6b",
+   "status": "scheduled",
+   "dueAt": "2026-11-20T10:00Z"
   },
   {
    "key": "yt#reels/2026-11-15_word_expect.mp4",
@@ -175,9 +175,9 @@
    "madeForKids": false,
    "privacy": "public",
    "youtubeId": null,
-   "bufferId": null,
-   "status": "ready",
-   "dueAt": null
+   "bufferId": "6afe0d5014a4c3f4333f580e",
+   "status": "scheduled",
+   "dueAt": "2026-11-22T10:00Z"
   },
   {
    "key": "yt#reels/2026-11-19_dialogue_supermarket.mp4",
