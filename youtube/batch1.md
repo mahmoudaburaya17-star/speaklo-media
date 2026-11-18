@@ -1,0 +1,15 @@
+# YouTube batch 1 (launch backlog, reused from Facebook reels)
+- Sat 12:00 | word | كلمة اليوم: SHARE يعني إيه بالإنجليزي؟ | English word #Shorts
+- Sat 19:00 | dialogue | إزاي تتكلم في البنك بالإنجليزي؟ | English Dialogue #Shorts
+- Sun 19:00 | lesson | الفرق بين too و enough في 40 ثانية | English Grammar #Shorts
+- Mon 12:00 | word | كلمة اليوم: LEND يعني إيه بالإنجليزي؟ | English word #Shorts
+- Mon 19:00 | lesson | إزاي تقول الأحسن والأكبر بالإنجليزي؟ | Superlatives #Shorts
+- Tue 12:00 | story | قصة قصيرة بالإنجليزي: القطر اتأخر | English Story #Shorts
+- Wed 12:00 | dialogue | إزاي تتكلم في الصيدلية بالإنجليزي؟ | English Dialogue #Shorts
+- Thu 12:00 | word | كلمة اليوم: JOIN يعني إيه بالإنجليزي؟ | English word #Shorts
+- Thu 19:00 | lesson | at ولا in ولا on؟ حروف الجر للأماكن | English Grammar #Shorts
+- Fri 12:00 | story | قصة قصيرة بالإنجليزي: تورتة عيد الميلاد | English Story #Shorts
+- Sat 12:00 (wk2) | word | كلمة اليوم: EXPECT يعني إيه بالإنجليزي؟ | English word #Shorts
+- Sat 19:00 (wk2) | dialogue | إزاي تتكلم في السوبرماركت بالإنجليزي؟ | English Dialogue #Shorts
+- Sun 12:00 (wk2) | word | كلمة اليوم: ACHIEVE يعني إيه بالإنجليزي؟ | English word #Shorts
+- Mon 19:00 (wk2) | dialogue | إزاي تعدّي مقابلة شغل بالإنجليزي؟ | English Dialogue #Shorts
