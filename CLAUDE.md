@@ -114,3 +114,6 @@ YouTube channel Speaklo is connected in Buffer (channel id 6afcb9cbece6dfde5ffde
 
 ## Update 2026-11-18 (logo)
 User: the YouTube channel logo is the same as the Facebook page logo (blue S, not the yellow "s" bubble from my brand guide). Logo file NOT available in the sandbox; my cards and Reels still draw the old yellow "s" mark (speaklo_ar2.logo, fx). When the user attaches the logo PNG: save it as tools/logo.png and swap it into logo() in speaklo_ar2.py and the Reel templates; tagline decision still open ('Speak it. Own it.' vs 'Speak Naturally. Understand More.').
+
+## Update 2026-11-19 (YouTube videos: name + subscribe CTA)
+USER RULE (2026-11-18/19): YouTube videos must carry the channel name inside the video and a subscribe+like CTA. ALL YouTube videos now go through tools/yt_version.py (cuts the FB CTA scene, appends a 4.5 s end card 'Like and subscribe to Speaklo!' + bell/thumb + Arabic 'اشترك في القناة واعمل لايك', burns a 'Speaklo' pill top-right; alimiter added, peak about -1.9 dBFS, about -17 LUFS). Output in reels/yt/<name>_yt.mp4 (new filename = new URL). 8 scheduled YouTube posts (Nov 20-23) were swapped via edit_post and verified. JOIN (Nov 19 12:00) and prepositions (19:00) were published with the old version. Needs /home/claude/gen (fx.py, fonts) + TTS stack. Facebook queue not synced this session.
