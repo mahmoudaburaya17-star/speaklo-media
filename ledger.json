@@ -2022,7 +2022,7 @@
    "key": "2026-11-20T07:00Z#story#ar",
    "slot": "Story",
    "topic": "story birthday cake",
-   "image": "reels/2026-11-20_story_birthday_cake.mp4",
+   "image": "reels/2026-11-20_story_birthday_cake_fb.mp4",
    "text": "(see Buffer)",
    "bufferId": "6afcb02041283412cdcd914f",
    "status": "scheduled",
@@ -2066,7 +2066,7 @@
    "key": "2026-11-20T20:00Z#dialogue#ar",
    "slot": "Dialogue",
    "topic": "train station",
-   "image": "reels/2026-11-20_dialogue_train.mp4",
+   "image": "reels/2026-11-20_dialogue_train_fb.mp4",
    "text": "(see Buffer)",
    "bufferId": "6afe0cba14a4c3f4333f1c71",
    "status": "scheduled",
@@ -2077,12 +2077,21 @@
    "key": "2026-11-21T07:00Z#word#ar",
    "slot": "Word Reel",
    "topic": "offer",
-   "image": "reels/2026-11-21_word_offer.mp4",
+   "image": "reels/2026-11-21_word_offer_fb.mp4",
    "text": "(see Buffer)",
    "bufferId": "6afe0cbd0fd3f6beff50b0d4",
    "status": "scheduled",
    "source": "merriam-webster.com/dictionary/offer sense 2 'to present for acceptance or rejection' (IPA derived from respelling ˈȯ-fər)",
    "dueAtUtc": "2026-11-21T07:00Z"
+  },
+  {
+   "key": "2026-11-21T20:00Z#dialogue#ar",
+   "slot": "Dialogue",
+   "topic": "post office",
+   "image": "reels/2026-11-21_dialogue_post_office.mp4",
+   "status": "scheduled",
+   "bufferId": "6aff54fd7c739ea0add83409",
+   "source": "own simple sentences"
   }
  ]
 }
