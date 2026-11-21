@@ -57,3 +57,13 @@
 - Tags (تتنسخ يدوي في YouTube Studio): `تعلم الانجليزية, انطقها صح, النطق الصحيح بالانجليزي, learn english, english pronunciation, speaklo, اتعلم انجليزي, كلمات انجليزي, english for arabs, تعلم اللغة الانجليزية للمبتدئين`
 - هاشتاجات الوصف: #Speaklo #تعلم_الإنجليزية #انطقها_صح #english #shorts
 - المصدر: Merriam-Webster (Wednesday, comfortable, vegetable).
+
+## «أنا مش فاضي دلوقتي» بالإنجليزي الصح 😅 | قولها بالإنجليزي #1 (Short 2 بتعليقك الصوتي)
+- العنوان والوصف: من كتابتك (متجدول بيهم، 24 نوفمبر 9 م).
+- Tags (تتنسخ يدوي في Studio): `تعلم الانجليزية, قولها بالانجليزي, I'm not free right now, english phrases, learn english, speaklo, جمل انجليزي, اتعلم انجليزي, english for arabs, محادثة انجليزي`
+- المصدر: free بمعنى "مش مشغول" (Merriam-Webster simple: "free" sense 7a)، swamped with work (Merriam-Webster swamp 1b)، be tied up = busy (Oxford Learner's: "I'm tied up in a meeting until 3").
+
+## ٣ ردود على Thank you غير You're welcome 🙏 (Short 3 بتعليقك الصوتي)
+- العنوان والوصف: من كتابتك (متجدول بيهم، 25 نوفمبر 9 م).
+- Tags (تتنسخ يدوي في Studio): `تعلم الانجليزية, قولها بالانجليزي, thank you replies, english phrases, learn english, speaklo, جمل انجليزي, ردود انجليزي, english for arabs, محادثة انجليزي`
+- المصدر: My pleasure (Merriam-Webster: رد مهذب على الشكر)، No problem (Merriam-Webster: informal، رد على الشكر)، Anytime (Merriam-Webster Learner's: usage note غير رسمي "مستعد أعملها تاني في أي وقت"؛ مش مذكورة صراحة كرد على الشكر في القواميس اللي راجعتها).

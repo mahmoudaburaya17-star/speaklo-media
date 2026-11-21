@@ -245,6 +245,22 @@
    "bufferId": "6b00e946dd205ed779aa6dd2",
    "status": "scheduled",
    "dueAt": "2026-11-22T21:00+02:00"
+  },
+  {
+   "series": "قولها بالإنجليزي #1",
+   "file": "reels/yt/2026-11-24_short_not_free_yt.mp4",
+   "title": "«أنا مش فاضي دلوقتي» بالإنجليزي الصح 😅 | قولها بالإنجليزي #1",
+   "source": "MW free 7a; MW swamp 1b; Oxford Learner's tie up",
+   "status": "pending",
+   "dueAt": "2026-11-24T21:00+02:00"
+  },
+  {
+   "series": "ردود Thank you",
+   "file": "reels/yt/2026-11-25_short_thanks_replies_yt.mp4",
+   "title": "٣ ردود على Thank you غير You're welcome 🙏",
+   "source": "MW my pleasure; MW no problem; MW Learner's anytime (informal usage note)",
+   "status": "pending",
+   "dueAt": "2026-11-25T21:00+02:00"
   }
  ]
 }
