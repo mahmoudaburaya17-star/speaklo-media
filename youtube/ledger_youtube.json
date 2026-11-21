@@ -17,7 +17,7 @@
    "youtubeId": null,
    "bufferId": "6afe0d4b9745ed16f27c8d61",
    "status": "scheduled",
-   "dueAt": "2026-11-21T10:00Z",
+   "dueAt": "2026-11-21T15:00+02:00",
    "ytVersion": true
   },
   {
@@ -34,7 +34,7 @@
    "youtubeId": null,
    "bufferId": "6afe0d4df5888642f69d0fdd",
    "status": "scheduled",
-   "dueAt": "2026-11-21T17:00Z",
+   "dueAt": "2026-11-21T21:00+02:00",
    "ytVersion": true
   },
   {
@@ -51,7 +51,7 @@
    "youtubeId": null,
    "bufferId": "6afe0d53cabb10e79add688d",
    "status": "scheduled",
-   "dueAt": "2026-11-22T17:00Z",
+   "dueAt": "2026-11-23T15:00+02:00",
    "ytVersion": true
   },
   {
@@ -68,7 +68,7 @@
    "youtubeId": null,
    "bufferId": "6afe0d5614a4c3f4333f58e8",
    "status": "scheduled",
-   "dueAt": "2026-11-23T10:00Z",
+   "dueAt": "2026-11-23T21:00+02:00",
    "ytVersion": true
   },
   {
@@ -85,7 +85,7 @@
    "youtubeId": null,
    "bufferId": "6afe0d5923b3a6937eae6ee4",
    "status": "scheduled",
-   "dueAt": "2026-11-23T17:00Z",
+   "dueAt": "2026-11-24T15:00+02:00",
    "ytVersion": true
   },
   {
@@ -186,7 +186,7 @@
    "youtubeId": null,
    "bufferId": "6afe0d5014a4c3f4333f580e",
    "status": "scheduled",
-   "dueAt": "2026-11-22T10:00Z",
+   "dueAt": "2026-11-22T15:00+02:00",
    "ytVersion": true
   },
   {
@@ -236,6 +236,15 @@
    "bufferId": null,
    "status": "ready",
    "dueAt": null
+  },
+  {
+   "series": "pronunciation",
+   "file": "reels/yt/2026-11-21_short_silent_letters_yt.mp4",
+   "title": "لو بتنطق Wednesday غلط! 3 كلمات بتتنطق غلط | نطق صح بالإنجليزي #Shorts",
+   "source": "Merriam-Webster wednesday/comfortable/vegetable",
+   "bufferId": "6b00e946dd205ed779aa6dd2",
+   "status": "scheduled",
+   "dueAt": "2026-11-22T21:00+02:00"
   }
  ]
 }
