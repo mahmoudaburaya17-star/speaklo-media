@@ -51,3 +51,9 @@
 - الحالة: مجدول (اتعدل في Buffer)
 - Tags: `superlatives, superlative adjectives, صيغة التفضيل في الانجليزي, الاحسن والاكبر بالانجليزي, the best the biggest, comparatives and superlatives, english grammar, قواعد اللغة الانجليزية, grammar for beginners, تعلم الانجليزية, انجليزي بالمصري, speaklo` (250 حرف)
 - هاشتاجات الوصف: #Shorts #تعلم_الانجليزية #English #انجليزي #LearnEnglish #Speaklo #EnglishGrammar #قواعد_انجليزي
+
+## Silent letters (فيديو التعليق الصوتي الجديد: Wednesday / Comfortable / Vegetable)
+- العنوان: لو بتنطق Wednesday غلط! 3 كلمات بتتنطق غلط | نطق صح بالإنجليزي #Shorts
+- Tags: `Wednesday pronunciation, how to pronounce Wednesday, comfortable pronunciation, vegetable pronunciation, silent letters, silent letters in english, نطق Wednesday, نطق كلمات انجليزية, اخطاء النطق في الانجليزي, تعلم النطق بالانجليزي, نطق انجليزي صح, english pronunciation, mispronounced words, انجليزي بالمصري, speaklo`
+- هاشتاجات: #Shorts #تعلم_الانجليزية #English #انجليزي #LearnEnglish #Speaklo #EnglishPronunciation #نطق_صح
+- المصدر: Merriam-Webster (Wednesday ˈwenz-(ˌ)dā / comfortable ˈkəm(p)(f)-tər-bəl / vegetable ˈvej-tə-bəl); IPA derived from the respellings.
