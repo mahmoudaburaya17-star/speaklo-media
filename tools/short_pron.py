@@ -106,11 +106,11 @@ def scene_layer(T,k):
         pillrow(d,L,1030,True,None,T,18.28,syl=["VEJ","-tuh","-bul"],segs=[(18.28,18.80)])
         ipa(d,T,"/ˈvedʒtəbəl/",1150,18.35)
     else:
-        for em,cx,t0 in ((emoji("🔔",230),400,0.05),(emoji("👍",230),680,0.35)):
+        for em,cx,t0 in ((emoji(("👥" if __import__("os").environ.get("FB") else "🔔"),230),400,0.05),(emoji("👍",230),680,0.35)):
             s=max(0.05,ease_out_back((lt-t0)/0.5)*(1+0.04*math.sin(T*6)));e=em.resize((int(em.width*s),int(em.height*s)),Image.LANCZOS);L.paste(e,(cx-e.width//2,360-e.height//2),e)
         a=clamp((lt-0.1)/0.3);sp=Image.new("RGBA",(W,700),(0,0,0,0));sd=ImageDraw.Draw(sp)
-        sd.text((540,70),NAME,font=LA(150),fill=YEL,anchor="mm");ar(sd,(540,230),"اشترك في القناة",96,CREAM,"ExtraBold");ar(sd,(540,345),"واعمل لايك",78,YEL,"Bold")
-        pul=1+0.05*math.sin(T*7);bw,bh=int(520*pul),int(110*pul);sd.rounded_rectangle((540-bw//2,520-bh//2,540+bw//2,520+bh//2),bh//2,fill=CORAL);sd.text((540,520),"Subscribe",font=LA(58),fill=CREAM,anchor="mm")
+        sd.text((540,70),NAME,font=LA(150),fill=YEL,anchor="mm");ar(sd,(540,230),("تابع الصفحة" if __import__("os").environ.get("FB") else "اشترك في القناة"),96,CREAM,"ExtraBold");ar(sd,(540,345),"واعمل لايك",78,YEL,"Bold")
+        pul=1+0.05*math.sin(T*7);bw,bh=int(520*pul),int(110*pul);sd.rounded_rectangle((540-bw//2,520-bh//2,540+bw//2,520+bh//2),bh//2,fill=CORAL);sd.text((540,520),("Follow" if __import__("os").environ.get("FB") else "Subscribe"),font=LA(58),fill=CREAM,anchor="mm")
         sp=fade(sp,a);L.paste(sp,(0,500),sp)
     return L
 def main(out):
