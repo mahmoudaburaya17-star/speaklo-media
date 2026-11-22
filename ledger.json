@@ -2122,6 +2122,76 @@
    "bufferId": "6b0340aacc364169c17bd2bd",
    "status": "scheduled",
    "source": "user voiceover; Merriam-Webster / see youtube/titles_tags.md"
+  },
+  {
+   "key": "2026-11-23T07:00Z#word#ar",
+   "slot": "Word Reel",
+   "topic": "accept",
+   "image": "reels/2026-11-23_word_accept_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b034569bf5d5a73b6b8354c",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/accept"
+  },
+  {
+   "key": "2026-11-23T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "mistake: in 19 October -> on 19 October",
+   "image": "images/2026-11-23/1300_mistake_birthday_in_on.png",
+   "text": "(see Buffer)",
+   "bufferId": "6b03456bd5eabfb8ccd485ed",
+   "status": "scheduled",
+   "source": "British Council: Prepositions of time at/in/on"
+  },
+  {
+   "key": "2026-11-23T18:00Z#long38#ar",
+   "slot": "Long",
+   "topic": "long38 will vs going to vs present continuous",
+   "image": "images/2026-11-23/2000_long38_will_going_to.png",
+   "text": "(see Buffer)",
+   "bufferId": "6b034570d864a01105eded24",
+   "status": "scheduled",
+   "source": "British Council: Future forms will, be going to and present continuous"
+  },
+  {
+   "key": "2026-11-24T07:00Z#story#ar",
+   "slot": "Story",
+   "topic": "story rainy morning (umbrella/hurry/soaked)",
+   "image": "reels/2026-11-24_story_rainy_morning_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b034573d864a01105ededa8",
+   "status": "scheduled",
+   "source": "merriam-webster.com umbrella, hurry, soak"
+  },
+  {
+   "key": "2026-11-24T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "mistake: marry with him -> marry him",
+   "image": "images/2026-11-24/1300_mistake_marry_with.png",
+   "text": "(see Buffer)",
+   "bufferId": "6b034576d864a01105edee8c",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/marry"
+  },
+  {
+   "key": "2026-11-24T18:00Z#lesson#ar",
+   "slot": "Lesson Reel",
+   "topic": "lesson so/such",
+   "image": "reels/2026-11-24_lesson_so_such_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b034579d5eabfb8ccd48bc2",
+   "status": "scheduled",
+   "source": "British Council: Intensifiers so and such"
+  },
+  {
+   "key": "2026-11-25T07:00Z#word#ar",
+   "slot": "Word Reel",
+   "topic": "remind",
+   "image": "reels/2026-11-25_word_remind_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b03457bbf5d5a73b6b83d7e",
+   "status": "scheduled",
+   "source": "merriam-webster.com/dictionary/remind"
   }
  ]
 }

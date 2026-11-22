@@ -67,3 +67,12 @@
 - العنوان والوصف: من كتابتك (متجدول بيهم، 25 نوفمبر 9 م).
 - Tags (تتنسخ يدوي في Studio): `تعلم الانجليزية, قولها بالانجليزي, thank you replies, english phrases, learn english, speaklo, جمل انجليزي, ردود انجليزي, english for arabs, محادثة انجليزي`
 - المصدر: My pleasure (Merriam-Webster: رد مهذب على الشكر)، No problem (Merriam-Webster: informal، رد على الشكر)، Anytime (Merriam-Webster Learner's: usage note غير رسمي "مستعد أعملها تاني في أي وقت"؛ مش مذكورة صراحة كرد على الشكر في القواميس اللي راجعتها).
+
+## معنى كلمة ACCEPT بالإنجليزي مع مثال | كلمة اليوم #Shorts (Nov 26 15:00)
+- Tags: `accept meaning, معنى accept, accept بالعربي, معنى كلمة accept, كلمة اليوم انجليزي, كلمات انجليزية مهمة, learn english, speaklo, اتعلم انجليزي, english vocabulary`
+## قصة قصيرة بالإنجليزي مترجمة: الصبح الممطر | تعلم بالقصص #Shorts (Nov 26 21:00)
+- Tags: `قصة انجليزي قصيرة, قصص انجليزي مترجمة, تعلم انجليزي بالقصص, umbrella meaning, hurry meaning, learn english story, speaklo, اتعلم انجليزي, english for arabs, english story`
+## الفرق بين so و such بالإنجليزي مع أمثلة | قواعد #Shorts (Nov 27 15:00)
+- Tags: `so vs such, الفرق بين so و such, so and such grammar, such a, so many, english grammar, قواعد انجليزي, learn english, speaklo, اتعلم انجليزي`
+## معنى كلمة REMIND بالإنجليزي مع مثال | كلمة اليوم #Shorts (Nov 27 21:00)
+- Tags: `remind meaning, معنى remind, remind بالعربي, معنى كلمة remind, كلمة اليوم انجليزي, كلمات انجليزية مهمة, learn english, speaklo, اتعلم انجليزي, english vocabulary`
