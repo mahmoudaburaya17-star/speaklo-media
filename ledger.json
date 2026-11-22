@@ -2092,6 +2092,36 @@
    "status": "scheduled",
    "bufferId": "6aff54fd7c739ea0add83409",
    "source": "own simple sentences"
+  },
+  {
+   "key": "2026-11-22T20:00Z#short#ar",
+   "slot": "Short",
+   "topic": "short silent letters (FB version)",
+   "image": "reels/2026-11-23_short_silent_letters_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b0340a6cc364169c17bd185",
+   "status": "scheduled",
+   "source": "user voiceover; Merriam-Webster / see youtube/titles_tags.md"
+  },
+  {
+   "key": "2026-11-23T20:00Z#short#ar",
+   "slot": "Short",
+   "topic": "short not free (FB version)",
+   "image": "reels/2026-11-24_short_not_free_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b0340a8bf5d5a73b6b66b9f",
+   "status": "scheduled",
+   "source": "user voiceover; Merriam-Webster / see youtube/titles_tags.md"
+  },
+  {
+   "key": "2026-11-24T20:00Z#short#ar",
+   "slot": "Short",
+   "topic": "short thanks replies (FB version)",
+   "image": "reels/2026-11-25_short_thanks_replies_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b0340aacc364169c17bd2bd",
+   "status": "scheduled",
+   "source": "user voiceover; Merriam-Webster / see youtube/titles_tags.md"
   }
  ]
 }
