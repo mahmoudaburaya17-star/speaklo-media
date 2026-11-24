@@ -2101,7 +2101,9 @@
    "text": "(see Buffer)",
    "bufferId": "6b0340a6cc364169c17bd185",
    "status": "scheduled",
-   "source": "user voiceover; Merriam-Webster / see youtube/titles_tags.md"
+   "source": "user voiceover; Merriam-Webster / see youtube/titles_tags.md",
+   "dueAtUtc": "2026-11-25T20:00Z",
+   "note": "errored Nov 22-23 (Buffer lost FB authorization), rescheduled Nov 24"
   },
   {
    "key": "2026-11-23T20:00Z#short#ar",
@@ -2131,7 +2133,9 @@
    "text": "(see Buffer)",
    "bufferId": "6b034569bf5d5a73b6b8354c",
    "status": "scheduled",
-   "source": "merriam-webster.com/dictionary/accept"
+   "source": "merriam-webster.com/dictionary/accept",
+   "dueAtUtc": "2026-11-26T07:00Z",
+   "note": "errored Nov 22-23 (Buffer lost FB authorization), rescheduled Nov 24"
   },
   {
    "key": "2026-11-23T11:00Z#mistake#ar",
@@ -2141,7 +2145,9 @@
    "text": "(see Buffer)",
    "bufferId": "6b03456bd5eabfb8ccd485ed",
    "status": "scheduled",
-   "source": "British Council: Prepositions of time at/in/on"
+   "source": "British Council: Prepositions of time at/in/on",
+   "dueAtUtc": "2026-11-25T11:00Z",
+   "note": "errored Nov 22-23 (Buffer lost FB authorization), rescheduled Nov 24"
   },
   {
    "key": "2026-11-23T18:00Z#long38#ar",
