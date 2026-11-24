@@ -2198,6 +2198,56 @@
    "bufferId": "6b03457bbf5d5a73b6b83d7e",
    "status": "scheduled",
    "source": "merriam-webster.com/dictionary/remind"
+  },
+  {
+   "key": "2026-11-25T18:00Z#long#ar",
+   "slot": "Long post",
+   "topic": "long39 present perfect continuous",
+   "image": "images/2026-11-25/2000_long39_present_perfect_continuous.png",
+   "text": "(see Buffer)",
+   "bufferId": "6b05e735c3341ae1e4f2e2a0",
+   "status": "scheduled",
+   "source": "British Council LearnEnglish present perfect simple and continuous"
+  },
+  {
+   "key": "2026-11-26T11:00Z#mistake#ar",
+   "slot": "Mistake",
+   "topic": "must to be",
+   "image": "images/2026-11-26/1300_mistake_must_to_be.png",
+   "text": "(see Buffer)",
+   "bufferId": "6b05e737c3341ae1e4f2e400",
+   "status": "scheduled",
+   "source": "British Council LearnEnglish modals of deduction (present)"
+  },
+  {
+   "key": "2026-11-26T18:00Z#lesson#ar",
+   "slot": "Lesson Reel",
+   "topic": "deduction must/might/could/can't",
+   "image": "reels/2026-11-26_lesson_deduction_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b05e73baca740481948c367",
+   "status": "scheduled",
+   "source": "British Council LearnEnglish modals-deductions-about-present"
+  },
+  {
+   "key": "2026-11-26T20:00Z#dialogue#ar",
+   "slot": "Dialogue Reel",
+   "topic": "gym",
+   "image": "reels/2026-11-26_dialogue_gym_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b05e73d7dd70038e15fbf11",
+   "status": "scheduled",
+   "source": "own simple sentences"
+  },
+  {
+   "key": "2026-11-27T07:00Z#story#ar",
+   "slot": "Story Reel",
+   "topic": "surprise party (surprise/hide/gift)",
+   "image": "reels/2026-11-27_story_surprise_party_fb.mp4",
+   "text": "(see Buffer)",
+   "bufferId": "6b05e7407dd70038e15fc0d4",
+   "status": "scheduled",
+   "source": "merriam-webster.com surprise, hide, gift"
   }
  ]
 }

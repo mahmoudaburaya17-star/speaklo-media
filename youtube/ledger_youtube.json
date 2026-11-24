@@ -295,6 +295,30 @@
    "bufferId": "6b03458dc72676f5e955d46c",
    "dueAt": "2026-11-27T21:00:00+02:00",
    "status": "scheduled"
+  },
+  {
+   "key": "yt#reels/yt/2026-11-26_lesson_deduction_yt.mp4",
+   "file": "reels/yt/2026-11-26_lesson_deduction_yt.mp4",
+   "topic": "lesson deduction",
+   "bufferId": "6b05e77f77f885d567315714",
+   "dueAt": "2026-11-28T15:00:00+02:00",
+   "status": "scheduled"
+  },
+  {
+   "key": "yt#reels/yt/2026-11-26_dialogue_gym_yt.mp4",
+   "file": "reels/yt/2026-11-26_dialogue_gym_yt.mp4",
+   "topic": "dialogue gym",
+   "bufferId": "6b05e78277f885d567315815",
+   "dueAt": "2026-11-28T21:00:00+02:00",
+   "status": "scheduled"
+  },
+  {
+   "key": "yt#reels/yt/2026-11-27_story_surprise_party_yt.mp4",
+   "file": "reels/yt/2026-11-27_story_surprise_party_yt.mp4",
+   "topic": "story surprise party",
+   "bufferId": "6b05e78577f885d5673158b0",
+   "dueAt": "2026-11-29T15:00:00+02:00",
+   "status": "scheduled"
   }
  ]
 }
