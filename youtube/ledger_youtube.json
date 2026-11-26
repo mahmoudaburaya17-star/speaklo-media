@@ -319,6 +319,22 @@
    "bufferId": "6b05e78577f885d5673158b0",
    "dueAt": "2026-11-29T15:00:00+02:00",
    "status": "scheduled"
+  },
+  {
+   "key": "yt#vo01_v_sound",
+   "file": "reels/yt/2026-11-26_vo01_v_sound_yt.mp4",
+   "topic": "vo01_v_sound",
+   "bufferId": "6b08217da999b306fd8e7f03",
+   "dueAt": "2026-11-30T15:00:00+02:00",
+   "status": "scheduled"
+  },
+  {
+   "key": "yt#vo02_polite_order",
+   "file": "reels/yt/2026-11-26_vo02_polite_order_yt.mp4",
+   "topic": "vo02_polite_order",
+   "bufferId": "6b0821874ffbd8bc59abc99e",
+   "dueAt": "2026-11-30T21:00:00+02:00",
+   "status": "scheduled"
   }
  ]
 }

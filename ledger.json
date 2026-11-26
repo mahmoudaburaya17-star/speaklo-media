@@ -2248,6 +2248,76 @@
    "bufferId": "6b05e7407dd70038e15fc0d4",
    "status": "scheduled",
    "source": "merriam-webster.com surprise, hide, gift"
+  },
+  {
+   "key": "2026-11-26T19:00Z#voice01#ar",
+   "slot": "voice Reel",
+   "topic": "vo01_v_sound",
+   "image": "reels/2026-11-26_vo01_v_sound_fb.mp4",
+   "text": "(see voice/voice_videos_meta.json)",
+   "bufferId": "6b082167a999b306fd8e7760",
+   "status": "scheduled",
+   "source": "شرح النطق من تسجيل Speaklo"
+  },
+  {
+   "key": "2026-11-27T13:00Z#voice02#ar",
+   "slot": "voice Reel",
+   "topic": "vo02_polite_order",
+   "image": "reels/2026-11-26_vo02_polite_order_fb.mp4",
+   "text": "(see voice/voice_videos_meta.json)",
+   "bufferId": "6b08216a413ce5409690c8ac",
+   "status": "scheduled",
+   "source": "جمل من تسجيل Speaklo (جمل بسيطة كتبناها)"
+  },
+  {
+   "key": "2026-11-27T19:00Z#voice03#ar",
+   "slot": "voice Reel",
+   "topic": "vo03_i_agree",
+   "image": "reels/2026-11-26_vo03_i_agree_fb.mp4",
+   "text": "(see voice/voice_videos_meta.json)",
+   "bufferId": "6b08216d413ce5409690c968",
+   "status": "scheduled",
+   "source": "Merriam-Webster Learner's Dictionary (agree)"
+  },
+  {
+   "key": "2026-11-28T13:00Z#voice04#ar",
+   "slot": "voice Reel",
+   "topic": "vo04_veg_choc_lib",
+   "image": "reels/2026-11-26_vo04_veg_choc_lib_fb.mp4",
+   "text": "(see voice/voice_videos_meta.json)",
+   "bufferId": "6b082170d82636cd03d2ab24",
+   "status": "scheduled",
+   "source": "Merriam-Webster (vegetable, chocolate, library)"
+  },
+  {
+   "key": "2026-11-28T19:00Z#voice05#ar",
+   "slot": "voice Reel",
+   "topic": "vo05_phone",
+   "image": "reels/2026-11-26_vo05_phone_fb.mp4",
+   "text": "(see voice/voice_videos_meta.json)",
+   "bufferId": "6b082173413ce5409690cb3e",
+   "status": "scheduled",
+   "source": "جمل من تسجيل Speaklo"
+  },
+  {
+   "key": "2026-11-29T13:00Z#voice06#ar",
+   "slot": "voice Reel",
+   "topic": "vo06_he_doesnt",
+   "image": "reels/2026-11-26_vo06_he_doesnt_fb.mp4",
+   "text": "(see voice/voice_videos_meta.json)",
+   "bufferId": "6b0821761fe41630505d8a64",
+   "status": "scheduled",
+   "source": "British Council LearnEnglish (Present simple)"
+  },
+  {
+   "key": "2026-11-29T19:00Z#voice07#ar",
+   "slot": "voice Reel",
+   "topic": "vo07_13_vs_30",
+   "image": "reels/2026-11-26_vo07_13_vs_30_fb.mp4",
+   "text": "(see voice/voice_videos_meta.json)",
+   "bufferId": "6b08217b1fe41630505d9065",
+   "status": "scheduled",
+   "source": "Merriam-Webster (thirteen, thirty, fifteen, fifty)"
   }
  ]
 }
