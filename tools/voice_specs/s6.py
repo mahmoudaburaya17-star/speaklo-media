@@ -1,0 +1,23 @@
+from fx import *
+SP=dict(wav="/home/claude/asr/run/wav/vo6.wav",chip="غلطة شائعة",total=26.1,emoji="🙅",cta=23.3,
+hook=[("He don't",110,CORAL,False),("غلطة ولا لأ؟",84,CREAM,True)],
+segments=[
+ (0.21,1.6,"He don't ما بقتش غلطة؟",True),
+ (2.17,3.06,"لا لسه غلطة",True),
+ (3.55,6.09,"لما الكلام عن he أو she أو it",True),
+ (6.51,8.7,"ال don't بتتحول doesn't",True),
+ (9.2,9.48,"مش",True),
+ (10.95,11.28,"الصح",True),
+ (13.44,13.7,"مش",True),
+ (14.97,15.36,"الصح",True),
+ (17.28,18.01,"القاعدة بسيطة",True),
+ (21.44,22.12,"والباقي كله",True),
+ (23.41,25.75,"تابع Speaklo واكتب في الكومنتات جملة فيها doesn't",True)],
+cards=[dict(en="He don't",ar="لسه غلط",color=CORAL,ent=(2.3,3.0),t=2.1,tag="غلط",scene=0),
+       dict(en="He doesn't",ar="ده الصح",color=MINT,ent=(8.0,8.7),t=6.4,tag="الصح",scene=0),
+       dict(en="He don't like it.",ar="غلط",color=CORAL,ent=(9.61,10.37),t=9.1,tag="غلط",scene=1),
+       dict(en="He doesn't like it.",ar="الصح",color=MINT,ent=(11.77,12.84),t=10.9,tag="الصح",scene=1),
+       dict(en="She don't know.",ar="غلط",color=CORAL,ent=(13.75,14.56),t=13.3,tag="غلط",scene=2),
+       dict(en="She doesn't know.",ar="الصح",color=MINT,ent=(15.68,16.65),t=14.95,tag="الصح",scene=2),
+       dict(en="he / she / it",ar="does",color=YEL,ent=(18.65,20.02),t=18.5,tag="ياخدوا",scene=3),
+       dict(en="I / you / we / they",ar="do",color=MINT,ent=(22.31,22.8),t=21.3,tag="والباقي كله",scene=3)])

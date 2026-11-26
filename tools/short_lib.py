@@ -36,16 +36,20 @@ def caption(C,im,T):
         if cap and a-0.05<=T<=b+0.35:cur=(a,b,ws)
     if not cur:return
     a,b,ws=cur;al=min(clamp((T-(a-0.05))/0.12),clamp((b+0.35-T)/0.15))
-    size=64;maxw=860;lines=[[]];cw=0
-    for tk in tokens(ws):
-        L=tlen(tk,size)+22
-        if cw+L>maxw and lines[-1]:lines.append([]);cw=0
-        lines[-1].append((tk,L));cw+=L
+    def lay(size):
+        maxw=860;lines=[[]];cw=0
+        for tk in tokens(ws):
+            L=tlen(tk,size)+22
+            if cw+L>maxw and lines[-1]:lines.append([]);cw=0
+            lines[-1].append((tk,L));cw+=L
+        return lines
+    size=64;lines=lay(size)
+    if len(lines)>2:size=52;lines=lay(size)
     ov=Image.new("RGBA",(W,H),(0,0,0,0));d=ImageDraw.Draw(ov)
-    ph=len(lines)*104+60;y0=1410-ph//2
+    LH=104 if size==64 else 84;ph=len(lines)*LH+60;y0=(1410 if size==64 else 1430)-ph//2
     d.rounded_rectangle((70,y0,1010,y0+ph),44,fill=PANEL+(215,),outline=DIM+(90,),width=2)
     for li,ln in enumerate(lines):
-        tw=sum(L for _,L in ln)-22;x=540+tw/2;y=y0+30+52+li*104
+        tw=sum(L for _,L in ln)-22;x=540+tw/2;y=y0+30+LH//2+li*LH
         for tk,L in ln:
             draw_token(d,x-(L-22)/2,y,tk,T,size);x-=L
     ov=fade(ov,al);im.paste(ov,(0,0),ov)
@@ -57,7 +61,8 @@ def row(C,L,T,idx,y):
     f=LA(64);tw=sum(f.getlength(w+" ") for w,_,_ in ws)-f.getlength(" ");x=540-tw/2+12
     for w,ws_,we in ws:
         t=w+" ";c=YEL if ws_<=T<we else CREAM;d.text((x,110),t,font=f,fill=c,anchor="lm");x+=f.getlength(t)
-    ar(d,(540,224),arb,56,col,"Bold")
+    if arb.startswith("/"):d.text((540,224),arb,font=ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",52),fill=col,anchor="mm")
+    else:ar(d,(540,224),arb,56,col,"Bold")
     if tag:
         tw2=AR(34,"Bold").getlength(tag,direction="rtl",language="ar")+44;d.rounded_rectangle((990-tw2-20,24,990-20,74),25,fill=col);ar(d,(990-20-tw2/2,49),tag,32,NAVY,"Bold")
     sp=fade(sp,k);L.paste(sp,(0,int(y+(1-s)*40)-10),sp)
